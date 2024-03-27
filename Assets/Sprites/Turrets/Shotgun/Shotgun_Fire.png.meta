@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: 2c94bb1dcf967774ba38df6046111094
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8312726435059980164
+    second: Mortar_Fire_0
+  - first:
+      213: 7577504333974466584
+    second: Mortar_Fire_1
+  - first:
+      213: -1322826352450726024
+    second: Mortar_Fire_2
+  - first:
+      213: 6372674629311755358
+    second: Mortar_Fire_3
+  - first:
+      213: -47171972369976528
+    second: Mortar_Fire_4
+  - first:
+      213: -8437030961131531367
+    second: Mortar_Fire_5
+  - first:
+      213: 2668340548231070153
+    second: Mortar_Fire_6
+  - first:
+      213: -6438250736766484444
+    second: Mortar_Fire_7
+  - first:
+      213: 4622300976897212989
+    second: Mortar_Fire_8
+  - first:
+      213: 5017112541378019889
+    second: Mortar_Fire_9
+  - first:
+      213: -5871672129048537266
+    second: Machinegun_0
+  - first:
+      213: 6093317697984682371
+    second: Machinegun_1
+  - first:
+      213: 2454370433484685692
+    second: Machinegun_2
+  - first:
+      213: 2120555699212819146
+    second: Machinegun_3
+  - first:
+      213: 1941452496504939703
+    second: Machinegun_4
+  - first:
+      213: -3053412504326114665
+    second: Machinegun_5
+  - first:
+      213: 172373432022664046
+    second: Machinegun_6
+  - first:
+      213: 4082347142313063652
+    second: Machinegun_7
+  - first:
+      213: 5640447059630119729
+    second: Machinegun_8
+  - first:
+      213: 2961905131117692845
+    second: Machinegun_9
+  - first:
+      213: -4998114034675042731
+    second: Machinegun_10
+  - first:
+      213: 8856623279611670937
+    second: Machinegun_11
+  - first:
+      213: 6462370419411399716
+    second: Machinegun_12
+  - first:
+      213: -7131378402135776310
+    second: Machinegun_13
+  - first:
+      213: 6430572792938183477
+    second: Machinegun_14
+  - first:
+      213: -3649988365604108555
+    second: Machinegun_15
+  - first:
+      213: -776529591848497520
+    second: Machinegun_16
+  - first:
+      213: 5942287194541538920
+    second: Machinegun_17
+  - first:
+      213: 6901264455312562845
+    second: Machinegun_18
+  - first:
+      213: -4369876002316235344
+    second: Machinegun_19
+  - first:
+      213: -1397121699371285960
+    second: Machinegun_20
+  - first:
+      213: 1585416630791866032
+    second: Machinegun_21
+  - first:
+      213: 651259093287318275
+    second: Machinegun_22
+  - first:
+      213: 7851573222600788436
+    second: Machinegun_23
+  - first:
+      213: -6355743721677248919
+    second: Machinegun_24
+  - first:
+      213: -7602889490589923594
+    second: Machinegun_25
+  - first:
+      213: -6541459002830992925
+    second: Machinegun_26
+  - first:
+      213: 76486753777899960
+    second: Machinegun_27
+  - first:
+      213: -1457626988725696193
+    second: Machinegun_28
+  - first:
+      213: 3071879921479342413
+    second: Machinegun_29
+  - first:
+      213: -2634582378403921682
+    second: Machinegun_30
+  - first:
+      213: -1085046001097758069
+    second: Machinegun_31
+  - first:
+      213: 6956634292448310588
+    second: Machinegun_32
+  - first:
+      213: 9205930067712643591
+    second: Machinegun_33
+  - first:
+      213: -925313092954314820
+    second: Machinegun_34
+  - first:
+      213: 5767516769906659610
+    second: Machinegun_35
+  - first:
+      213: 9110989363888642903
+    second: Machinegun_36
+  - first:
+      213: 350450559444958019
+    second: Machinegun_37
+  - first:
+      213: -8368565699676490243
+    second: Machinegun_38
+  - first:
+      213: 8015480175652835685
+    second: Machinegun_39
+  - first:
+      213: -6161377432898847050
+    second: Machinegun_40
+  - first:
+      213: -6312101991960391179
+    second: Machinegun_41
+  - first:
+      213: -8824975024093908261
+    second: Machinegun_42
+  - first:
+      213: 1697331867115721893
+    second: Machinegun_43
+  - first:
+      213: 6783428157424631720
+    second: Machinegun_44
+  - first:
+      213: -3219646623355403875
+    second: Machinegun_45
+  - first:
+      213: 7392043469852035391
+    second: Machinegun_46
+  - first:
+      213: 6397997735024014247
+    second: Machinegun_47
+  - first:
+      213: -1154408711186931875
+    second: Machinegun_48
+  - first:
+      213: -1169826393241531337
+    second: Machinegun_49
+  - first:
+      213: -1950188747409131604
+    second: Machinegun_50
+  - first:
+      213: -5934695020051637139
+    second: Machinegun_51
+  - first:
+      213: -5174876989690203349
+    second: Machinegun_52
+  - first:
+      213: 1847517982357642987
+    second: Machinegun_53
+  - first:
+      213: -6940787994923524291
+    second: Machinegun_54
+  - first:
+      213: 6228610565581965080
+    second: Machinegun_55
+  - first:
+      213: 4856041539590795305
+    second: Shotgun_Fire_0
+  - first:
+      213: -6957129289552699892
+    second: Shotgun_Fire_1
+  - first:
+      213: 6964993593086806232
+    second: Shotgun_Fire_2
+  - first:
+      213: 1938449302247589911
+    second: Shotgun_Fire_3
+  - first:
+      213: -835529716304221317
+    second: Shotgun_Fire_4
+  - first:
+      213: -2317723540326187571
+    second: Shotgun_Fire_5
+  - first:
+      213: -4075853178186473285
+    second: Shotgun_Fire_6
+  - first:
+      213: -7754450119283707965
+    second: Shotgun_Fire_7
+  - first:
+      213: -2618948341477899472
+    second: Shotgun_Fire_8
+  - first:
+      213: 2825558987156186116
+    second: Shotgun_Fire_9
+  - first:
+      213: 3095367958900441766
+    second: Shotgun_Fire_10
+  - first:
+      213: -3799049353378438081
+    second: Shotgun_Fire_11
+  - first:
+      213: -2421428918025605992
+    second: Shotgun_Fire_12
+  - first:
+      213: 9162154234376614959
+    second: Shotgun_Fire_13
+  - first:
+      213: -716691774266861636
+    second: Shotgun_Fire_14
+  - first:
+      213: -2333602028941800010
+    second: Shotgun_Fire_15
+  - first:
+      213: 2138506170962838711
+    second: Shotgun_Fire_16
+  - first:
+      213: -5019856942902350714
+    second: Shotgun_Fire_17
+  - first:
+      213: 2216031806616512337
+    second: Shotgun_Fire_18
+  - first:
+      213: 5771677542710856763
+    second: Shotgun_Fire_19
+  - first:
+      213: 7648485872471950778
+    second: Shotgun_Fire_20
+  - first:
+      213: 1383528056872144373
+    second: Shotgun_Fire_21
+  - first:
+      213: 2757012773519966574
+    second: Shotgun_Fire_22
+  - first:
+      213: -2342595521749411794
+    second: Shotgun_Fire_23
+  - first:
+      213: 8334916694804484291
+    second: Shotgun_Fire_24
+  - first:
+      213: -2750304875147389749
+    second: Shotgun_Fire_25
+  - first:
+      213: -3091788791540576039
+    second: Shotgun_Fire_26
+  - first:
+      213: -1581314066757953554
+    second: Shotgun_Fire_27
+  - first:
+      213: 7545585313721235734
+    second: Shotgun_Fire_28
+  - first:
+      213: 5613023602766329606
+    second: Shotgun_Fire_29
+  - first:
+      213: 2792789615296041636
+    second: Shotgun_Fire_30
+  - first:
+      213: 5919621884123209454
+    second: Shotgun_Fire_31
+  - first:
+      213: -4867584360857263825
+    second: Shotgun_Fire_32
+  - first:
+      213: -5853555196694749775
+    second: Shotgun_Fire_33
+  - first:
+      213: -2966581139138329281
+    second: Shotgun_Fire_34
+  - first:
+      213: -492728284613474271
+    second: Shotgun_Fire_35
+  - first:
+      213: -7769887184100670516
+    second: Shotgun_Fire_36
+  - first:
+      213: -4873711308486877264
+    second: Shotgun_Fire_37
+  - first:
+      213: 6759977140007403641
+    second: Shotgun_Fire_38
+  - first:
+      213: 9117013726138413867
+    second: Shotgun_Fire_39
+  - first:
+      213: -3209078420583206057
+    second: Shotgun_Fire_40
+  - first:
+      213: -5292296530014346896
+    second: Shotgun_Fire_41
+  - first:
+      213: -7841397966872089360
+    second: Shotgun_Fire_42
+  - first:
+      213: -2258824034830213810
+    second: Shotgun_Fire_43
+  - first:
+      213: -5799330491586480737
+    second: Shotgun_Fire_44
+  - first:
+      213: 2719583347471618244
+    second: Shotgun_Fire_45
+  - first:
+      213: -7054034415275459722
+    second: Shotgun_Fire_46
+  - first:
+      213: -4293016007793100873
+    second: Shotgun_Fire_47
+  - first:
+      213: 6200898897821460597
+    second: Shotgun_Fire_48
+  - first:
+      213: -1044745141939781301
+    second: Shotgun_Fire_49
+  - first:
+      213: -7697034856488075172
+    second: Shotgun_Fire_50
+  - first:
+      213: 5125616130710464186
+    second: Shotgun_Fire_51
+  - first:
+      213: 5644663790236184242
+    second: Shotgun_Fire_52
+  - first:
+      213: -8697829137306507872
+    second: Shotgun_Fire_53
+  - first:
+      213: 7386523503023119225
+    second: Shotgun_Fire_54
+  - first:
+      213: 7703334966967420425
+    second: Shotgun_Fire_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shotgun_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920b9d54d00246340800000000000000
+      internalID: 4856041539590795305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0edeb785cf437f90800000000000000
+      internalID: -6957129289552699892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88fc255c0a8a060800000000000000
+      internalID: 6964993593086806232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718429bbe51c6ea10800000000000000
+      internalID: 1938449302247589911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b676c562a9764f0800000000000000
+      internalID: -835529716304221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdfb4b48bac5dfd0800000000000000
+      internalID: -2317723540326187571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06c851129af67c0800000000000000
+      internalID: -4075853178186473285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfeb9b83b8a26490800000000000000
+      internalID: -7754450119283707965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338c15fb50a7abd0800000000000000
+      internalID: -2618948341477899472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046b59ade6663720800000000000000
+      internalID: 2825558987156186116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2036732c4f4fa20800000000000000
+      internalID: 3095367958900441766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3463b7cdb0174bc0800000000000000
+      internalID: -3799049353378438081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca9347a3b556ed0800000000000000
+      internalID: -2421428918025605992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24fb55abb2862f70800000000000000
+      internalID: 9162154234376614959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71165e0accd06f0800000000000000
+      internalID: -716691774266861636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0bc191516d9fd0800000000000000
+      internalID: -2333602028941800010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4883e38008dad10800000000000000
+      internalID: 2138506170962838711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce60fe4b2e55ab0800000000000000
+      internalID: -5019856942902350714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572854ef2de0ce10800000000000000
+      internalID: 2216031806616512337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c416b352e191050800000000000000
+      internalID: 5771677542710856763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5c84aa061e42a60800000000000000
+      internalID: 7648485872471950778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd86aeff67433310800000000000000
+      internalID: 1383528056872144373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614fde9280e24620800000000000000
+      internalID: 2757012773519966574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2894b9d8cd6d7fd0800000000000000
+      internalID: -2342595521749411794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05b4ad2929ba370800000000000000
+      internalID: 8334916694804484291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc490dca944f4d9d0800000000000000
+      internalID: -2750304875147389749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d090bf9972c715d0800000000000000
+      internalID: -3091788791540576039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee750940c3b0e0ae0800000000000000
+      internalID: -1581314066757953554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61932c65ddd47b860800000000000000
+      internalID: 7545585313721235734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60735c64a3775ed40800000000000000
+      internalID: 5613023602766329606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2de18bb5bf1c620800000000000000
+      internalID: 2792789615296041636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedac77db8b62250800000000000000
+      internalID: 5919621884123209454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212bd830ddd27cb0800000000000000
+      internalID: -4867584360857263825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1ed3ef8ef3cea0800000000000000
+      internalID: -5853555196694749775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35494ceb2694d6d0800000000000000
+      internalID: -2966581139138329281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12883d85c3a7929f0800000000000000
+      internalID: -492728284613474271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c1dec5c0db2490800000000000000
+      internalID: -7769887184100670516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd5df03691d5cb0800000000000000
+      internalID: -4873711308486877264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97007e7946340dd50800000000000000
+      internalID: 6759977140007403641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2337de0ea3268e70800000000000000
+      internalID: 9117013726138413867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75334cccd201773d0800000000000000
+      internalID: -3209078420583206057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716672885cfd86b0800000000000000
+      internalID: -5292296530014346896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc6e1a3812cd2390800000000000000
+      internalID: -7841397966872089360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d94d1128b07a0e0800000000000000
+      internalID: -2258824034830213810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9575e1e4a3a48fa0800000000000000
+      internalID: -5799330491586480737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01d1345a6edb520800000000000000
+      internalID: 2719583347471618244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b302cb2190b1e90800000000000000
+      internalID: -7054034415275459722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73d60bfa42c64c0800000000000000
+      internalID: -4293016007793100873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57862cc91b40e0650800000000000000
+      internalID: 6200898897821460597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b414dd524d15081f0800000000000000
+      internalID: -1044745141939781301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508a332493ae2590800000000000000
+      internalID: -7697034856488075172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66206d6b8d12740800000000000000
+      internalID: 5125616130710464186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea98d7fcfd55e40800000000000000
+      internalID: 5644663790236184242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5adc19b7a1b4780800000000000000
+      internalID: -8697829137306507872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b54c29df3328660800000000000000
+      internalID: 7386523503023119225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Fire_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90640f3a65eb7ea60800000000000000
+      internalID: 7703334966967420425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Shotgun_Fire_0: 4856041539590795305
+      Shotgun_Fire_1: -6957129289552699892
+      Shotgun_Fire_10: 3095367958900441766
+      Shotgun_Fire_11: -3799049353378438081
+      Shotgun_Fire_12: -2421428918025605992
+      Shotgun_Fire_13: 9162154234376614959
+      Shotgun_Fire_14: -716691774266861636
+      Shotgun_Fire_15: -2333602028941800010
+      Shotgun_Fire_16: 2138506170962838711
+      Shotgun_Fire_17: -5019856942902350714
+      Shotgun_Fire_18: 2216031806616512337
+      Shotgun_Fire_19: 5771677542710856763
+      Shotgun_Fire_2: 6964993593086806232
+      Shotgun_Fire_20: 7648485872471950778
+      Shotgun_Fire_21: 1383528056872144373
+      Shotgun_Fire_22: 2757012773519966574
+      Shotgun_Fire_23: -2342595521749411794
+      Shotgun_Fire_24: 8334916694804484291
+      Shotgun_Fire_25: -2750304875147389749
+      Shotgun_Fire_26: -3091788791540576039
+      Shotgun_Fire_27: -1581314066757953554
+      Shotgun_Fire_28: 7545585313721235734
+      Shotgun_Fire_29: 5613023602766329606
+      Shotgun_Fire_3: 1938449302247589911
+      Shotgun_Fire_30: 2792789615296041636
+      Shotgun_Fire_31: 5919621884123209454
+      Shotgun_Fire_32: -4867584360857263825
+      Shotgun_Fire_33: -5853555196694749775
+      Shotgun_Fire_34: -2966581139138329281
+      Shotgun_Fire_35: -492728284613474271
+      Shotgun_Fire_36: -7769887184100670516
+      Shotgun_Fire_37: -4873711308486877264
+      Shotgun_Fire_38: 6759977140007403641
+      Shotgun_Fire_39: 9117013726138413867
+      Shotgun_Fire_4: -835529716304221317
+      Shotgun_Fire_40: -3209078420583206057
+      Shotgun_Fire_41: -5292296530014346896
+      Shotgun_Fire_42: -7841397966872089360
+      Shotgun_Fire_43: -2258824034830213810
+      Shotgun_Fire_44: -5799330491586480737
+      Shotgun_Fire_45: 2719583347471618244
+      Shotgun_Fire_46: -7054034415275459722
+      Shotgun_Fire_47: -4293016007793100873
+      Shotgun_Fire_48: 6200898897821460597
+      Shotgun_Fire_49: -1044745141939781301
+      Shotgun_Fire_5: -2317723540326187571
+      Shotgun_Fire_50: -7697034856488075172
+      Shotgun_Fire_51: 5125616130710464186
+      Shotgun_Fire_52: 5644663790236184242
+      Shotgun_Fire_53: -8697829137306507872
+      Shotgun_Fire_54: 7386523503023119225
+      Shotgun_Fire_55: 7703334966967420425
+      Shotgun_Fire_6: -4075853178186473285
+      Shotgun_Fire_7: -7754450119283707965
+      Shotgun_Fire_8: -2618948341477899472
+      Shotgun_Fire_9: 2825558987156186116
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

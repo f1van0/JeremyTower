@@ -1,0 +1,1689 @@
+fileFormatVersion: 2
+guid: ccbcf64ce15301d46a1e8713c7017381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -593507151807480277
+    second: TurretBullet_Impact_0
+  - first:
+      213: 2829513998980392277
+    second: TurretBullet_Impact_1
+  - first:
+      213: -3999012553896871613
+    second: TurretBullet_Impact_2
+  - first:
+      213: 2138296219795832220
+    second: TurretBullet_Impact_3
+  - first:
+      213: -1704083851707894011
+    second: TurretBullet_Impact_4
+  - first:
+      213: -8145730486752093402
+    second: TurretBullet_Impact_5
+  - first:
+      213: 9055055127500453942
+    second: TurretBullet_Impact_6
+  - first:
+      213: 6161072344069218663
+    second: TurretBullet_Impact_7
+  - first:
+      213: -8321100329031794633
+    second: TurretBullet_Impact_8
+  - first:
+      213: -6187651366753901719
+    second: TurretBullet_Impact_9
+  - first:
+      213: -5997022766435912967
+    second: TrooperBullet_0
+  - first:
+      213: -7340068867754953929
+    second: TrooperBullet_1
+  - first:
+      213: 3041560309316229742
+    second: TrooperBullet_2
+  - first:
+      213: 5566428921062147787
+    second: TrooperBullet_3
+  - first:
+      213: -7357220822006477902
+    second: TrooperBullet_4
+  - first:
+      213: 5512944923856732321
+    second: TrooperBullet_5
+  - first:
+      213: -5568179766345076415
+    second: TrooperBullet_6
+  - first:
+      213: -5179534930197640843
+    second: TrooperBullet_7
+  - first:
+      213: 7540866293365860974
+    second: TrooperBullet_8
+  - first:
+      213: 2178344289499427343
+    second: TrooperBullet_9
+  - first:
+      213: 8186638927215323571
+    second: TrooperBullet_10
+  - first:
+      213: -1341058199905528315
+    second: TrooperBullet_11
+  - first:
+      213: 2708294207774406950
+    second: TrooperBullet_12
+  - first:
+      213: 9155996186362139921
+    second: TrooperBullet_13
+  - first:
+      213: -9164946755445371464
+    second: TrooperBullet_14
+  - first:
+      213: 7174305482277176917
+    second: TrooperBullet_15
+  - first:
+      213: -611364307446556912
+    second: TrooperBullet_16
+  - first:
+      213: -8777877761988496969
+    second: TrooperBullet_17
+  - first:
+      213: 1901575195423335955
+    second: TrooperBullet_18
+  - first:
+      213: -1869164028367429072
+    second: TrooperBullet_19
+  - first:
+      213: 7871203457619356677
+    second: TrooperBullet_20
+  - first:
+      213: 7562454805172900419
+    second: TrooperBullet_21
+  - first:
+      213: -5589195399727262329
+    second: TrooperBullet_22
+  - first:
+      213: -3607111673507765805
+    second: TrooperBullet_23
+  - first:
+      213: 4746589409453226238
+    second: TrooperBullet_24
+  - first:
+      213: -2653499582284316928
+    second: TrooperBullet_25
+  - first:
+      213: 2496825723882848970
+    second: TrooperBullet_26
+  - first:
+      213: 5565284880480933897
+    second: TrooperBullet_27
+  - first:
+      213: -4822237456688338730
+    second: TrooperBullet_28
+  - first:
+      213: -5692136735664113070
+    second: TrooperBullet_29
+  - first:
+      213: 3118723637526707660
+    second: TrooperBullet_30
+  - first:
+      213: -3804656268134755241
+    second: TrooperBullet_31
+  - first:
+      213: -3713344370107256493
+    second: TrooperBullet_32
+  - first:
+      213: 7561854134697972843
+    second: TrooperBullet_33
+  - first:
+      213: 1018722816904756931
+    second: TrooperBullet_34
+  - first:
+      213: -8283789693233394843
+    second: TrooperBullet_35
+  - first:
+      213: 2864852818597858979
+    second: TrooperBullet_36
+  - first:
+      213: 9160062745209253999
+    second: TrooperBullet_37
+  - first:
+      213: 5700446325318573818
+    second: TrooperBullet_38
+  - first:
+      213: 5685797574592406479
+    second: TrooperBullet_39
+  - first:
+      213: -3466015246848507030
+    second: TrooperBullet_40
+  - first:
+      213: -2187601422898664949
+    second: TrooperBullet_41
+  - first:
+      213: -2704031455622151050
+    second: TrooperBullet_42
+  - first:
+      213: 7411322442466239536
+    second: TrooperBullet_43
+  - first:
+      213: -253780715277319654
+    second: TrooperBullet_44
+  - first:
+      213: 5331818014869909453
+    second: TrooperBullet_45
+  - first:
+      213: 7748057984887530178
+    second: TrooperBullet_46
+  - first:
+      213: 6342170725710584924
+    second: TrooperBullet_47
+  - first:
+      213: 4648378800490376611
+    second: TrooperBullet_48
+  - first:
+      213: 3779510002365512713
+    second: TrooperBullet_49
+  - first:
+      213: 6642143024926204459
+    second: TrooperBullet_50
+  - first:
+      213: 8767537883034024183
+    second: TrooperBullet_51
+  - first:
+      213: -4977059128216570636
+    second: TrooperBullet_52
+  - first:
+      213: -2198340557613565483
+    second: TrooperBullet_53
+  - first:
+      213: 4295775738104290405
+    second: TrooperBullet_54
+  - first:
+      213: 892503340919070635
+    second: TrooperBullet_55
+  - first:
+      213: -2239813643374707750
+    second: TrooperBullet_56
+  - first:
+      213: -8975147458488115903
+    second: TrooperBullet_57
+  - first:
+      213: 8272839041294314638
+    second: TrooperBullet_58
+  - first:
+      213: -8071989634054941888
+    second: TrooperBullet_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrooperBullet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 955
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f238a8419b46cca0800000000000000
+      internalID: -5997022766435912967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 954
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ff8e0146d22a90800000000000000
+      internalID: -7340068867754953929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 954
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a98b78cfac53a20800000000000000
+      internalID: 3041560309316229742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 954
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6ce5b8c9def3d40800000000000000
+      internalID: 5566428921062147787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 954
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb423284a6e5e990800000000000000
+      internalID: -7357220822006477902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_5
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 954
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a006cc033ae18c40800000000000000
+      internalID: 5512944923856732321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 954
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141fb75010ad9b2b0800000000000000
+      internalID: -5568179766345076415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 954
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57987df5c689e18b0800000000000000
+      internalID: -5179534930197640843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 826
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae9cac0f986a860800000000000000
+      internalID: 7540866293365860974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 826
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f023d1607980b3e10800000000000000
+      internalID: 2178344289499427343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 826
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ed09cab8cc9170800000000000000
+      internalID: 8186638927215323571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 826
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50691832caa936de0800000000000000
+      internalID: -1341058199905528315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 826
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62934a99b3bc59520800000000000000
+      internalID: 2708294207774406950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 826
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11552fc5502a01f70800000000000000
+      internalID: 9155996186362139921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_14
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 826
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4f40eb719fc080800000000000000
+      internalID: -9164946755445371464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_15
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 826
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c44533d0409360800000000000000
+      internalID: 7174305482277176917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 698
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179b4ac66ff387f0800000000000000
+      internalID: -611364307446556912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 698
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ffd2cea6be2680800000000000000
+      internalID: -8777877761988496969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 698
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e6e4b090c36a10800000000000000
+      internalID: 1901575195423335955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 698
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a83e28356f06e0800000000000000
+      internalID: -1869164028367429072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 698
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6a3e57d12c3d60800000000000000
+      internalID: 7871203457619356677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_21
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 698
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d644e39c33f860800000000000000
+      internalID: 7562454805172900419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_22
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 698
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785520395603f62b0800000000000000
+      internalID: -5589195399727262329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_23
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 698
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1a7635b07f0fdc0800000000000000
+      internalID: -3607111673507765805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 570
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8371d5be54fd140800000000000000
+      internalID: 4746589409453226238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 570
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fbb425030ec2bd0800000000000000
+      internalID: -2653499582284316928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 570
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2481264c186a220800000000000000
+      internalID: 2496825723882848970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 570
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081be6dc1ddb3d40800000000000000
+      internalID: 5565284880480933897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 571
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8228b1598f31db0800000000000000
+      internalID: -4822237456688338730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_29
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 570
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af9c11cc77101b0800000000000000
+      internalID: -5692136735664113070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_30
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 571
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb467ef9ee74b20800000000000000
+      internalID: 3118723637526707660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_31
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 571
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545d553845233bc0800000000000000
+      internalID: -3804656268134755241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517f0338fc877cc0800000000000000
+      internalID: -3713344370107256493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ddf5654a11f860800000000000000
+      internalID: 7561854134697972843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce713a210b332e00800000000000000
+      internalID: 1018722816904756931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b08c4d9211a0d80800000000000000
+      internalID: -8283789693233394843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_36
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4d4ab57002c720800000000000000
+      internalID: 2864852818597858979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60bc70e8841f1f70800000000000000
+      internalID: 9160062745209253999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5bc90bbd0c1f40800000000000000
+      internalID: 5700446325318573818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_39
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ab5af4c208ee40800000000000000
+      internalID: 5685797574592406479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 315
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c1892f7d36efc0800000000000000
+      internalID: -3466015246848507030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6cf5a81414a1e0800000000000000
+      internalID: -2187601422898664949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c82ab7b9597ad0800000000000000
+      internalID: -2704031455622151050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_43
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034a41b9e7e4ad660800000000000000
+      internalID: 7411322442466239536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a120d07b8c36a7cf0800000000000000
+      internalID: -253780715277319654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_45
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf695f3c3c6ef940800000000000000
+      internalID: 5331818014869909453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_46
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a950bfa1a68b60800000000000000
+      internalID: 7748057984887530178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_47
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 315
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c5cda3caae30850800000000000000
+      internalID: 6342170725710584924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 187
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6fa014eb528040800000000000000
+      internalID: 4648378800490376611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_49
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 187
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c380c8254837430800000000000000
+      internalID: 3779510002365512713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 187
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22a01cb3e1ad2c50800000000000000
+      internalID: 6642143024926204459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 187
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f501904d8ca970800000000000000
+      internalID: 8767537883034024183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 187
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4398ca71fedeab0800000000000000
+      internalID: -4977059128216570636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_53
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 187
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9fb1009eced71e0800000000000000
+      internalID: -2198340557613565483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_54
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 187
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c92781649ad9b30800000000000000
+      internalID: 4295775738104290405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_55
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 187
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf94545f0fc26c00800000000000000
+      internalID: 892503340919070635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbb39fbb559ae0e0800000000000000
+      internalID: -2239813643374707750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_57
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 59
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dd01a50fed17380800000000000000
+      internalID: -8975147458488115903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_58
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 59
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca454d6470fc270800000000000000
+      internalID: 8272839041294314638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrooperBullet_59
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 59
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043158fe1388aff80800000000000000
+      internalID: -8071989634054941888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TrooperBullet_0: -5997022766435912967
+      TrooperBullet_1: -7340068867754953929
+      TrooperBullet_10: 8186638927215323571
+      TrooperBullet_11: -1341058199905528315
+      TrooperBullet_12: 2708294207774406950
+      TrooperBullet_13: 9155996186362139921
+      TrooperBullet_14: -9164946755445371464
+      TrooperBullet_15: 7174305482277176917
+      TrooperBullet_16: -611364307446556912
+      TrooperBullet_17: -8777877761988496969
+      TrooperBullet_18: 1901575195423335955
+      TrooperBullet_19: -1869164028367429072
+      TrooperBullet_2: 3041560309316229742
+      TrooperBullet_20: 7871203457619356677
+      TrooperBullet_21: 7562454805172900419
+      TrooperBullet_22: -5589195399727262329
+      TrooperBullet_23: -3607111673507765805
+      TrooperBullet_24: 4746589409453226238
+      TrooperBullet_25: -2653499582284316928
+      TrooperBullet_26: 2496825723882848970
+      TrooperBullet_27: 5565284880480933897
+      TrooperBullet_28: -4822237456688338730
+      TrooperBullet_29: -5692136735664113070
+      TrooperBullet_3: 5566428921062147787
+      TrooperBullet_30: 3118723637526707660
+      TrooperBullet_31: -3804656268134755241
+      TrooperBullet_32: -3713344370107256493
+      TrooperBullet_33: 7561854134697972843
+      TrooperBullet_34: 1018722816904756931
+      TrooperBullet_35: -8283789693233394843
+      TrooperBullet_36: 2864852818597858979
+      TrooperBullet_37: 9160062745209253999
+      TrooperBullet_38: 5700446325318573818
+      TrooperBullet_39: 5685797574592406479
+      TrooperBullet_4: -7357220822006477902
+      TrooperBullet_40: -3466015246848507030
+      TrooperBullet_41: -2187601422898664949
+      TrooperBullet_42: -2704031455622151050
+      TrooperBullet_43: 7411322442466239536
+      TrooperBullet_44: -253780715277319654
+      TrooperBullet_45: 5331818014869909453
+      TrooperBullet_46: 7748057984887530178
+      TrooperBullet_47: 6342170725710584924
+      TrooperBullet_48: 4648378800490376611
+      TrooperBullet_49: 3779510002365512713
+      TrooperBullet_5: 5512944923856732321
+      TrooperBullet_50: 6642143024926204459
+      TrooperBullet_51: 8767537883034024183
+      TrooperBullet_52: -4977059128216570636
+      TrooperBullet_53: -2198340557613565483
+      TrooperBullet_54: 4295775738104290405
+      TrooperBullet_55: 892503340919070635
+      TrooperBullet_56: -2239813643374707750
+      TrooperBullet_57: -8975147458488115903
+      TrooperBullet_58: 8272839041294314638
+      TrooperBullet_59: -8071989634054941888
+      TrooperBullet_6: -5568179766345076415
+      TrooperBullet_7: -5179534930197640843
+      TrooperBullet_8: 7540866293365860974
+      TrooperBullet_9: 2178344289499427343
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

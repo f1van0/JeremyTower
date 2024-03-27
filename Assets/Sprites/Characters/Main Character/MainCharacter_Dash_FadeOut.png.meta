@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 10525357daba8034abf4f7d3a37df7a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 873461438681977078
+    second: MainCharacter_Dash_FadeOut_0
+  - first:
+      213: -8785511567220134172
+    second: MainCharacter_Dash_FadeOut_1
+  - first:
+      213: -4201141840290463781
+    second: MainCharacter_Dash_FadeOut_2
+  - first:
+      213: 3564814134996027311
+    second: MainCharacter_Dash_FadeOut_3
+  - first:
+      213: 5974469156340776781
+    second: MainCharacter_Dash_FadeOut_4
+  - first:
+      213: 2243910738988108746
+    second: MainCharacter_Dash_FadeOut_5
+  - first:
+      213: -9049121713633471010
+    second: MainCharacter_Dash_FadeOut_6
+  - first:
+      213: 4030392611189595085
+    second: MainCharacter_Dash_FadeOut_7
+  - first:
+      213: -6703439323273932920
+    second: MainCharacter_Dash_FadeOut_8
+  - first:
+      213: -7529940493386717722
+    second: MainCharacter_Dash_FadeOut_9
+  - first:
+      213: 4223967388173816063
+    second: MainCharacter_Dash_FadeOut_10
+  - first:
+      213: 6313924188307028048
+    second: MainCharacter_Dash_FadeOut_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 817
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f014a9fc882f1c00800000000000000
+      internalID: 873461438681977078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 818
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee22c9f6c7931680800000000000000
+      internalID: -8785511567220134172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 818
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb47e31cb82b5c0800000000000000
+      internalID: -4201141840290463781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 818
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7cabe8193c87130800000000000000
+      internalID: 3564814134996027311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 818
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f38392b0499e250800000000000000
+      internalID: 5974469156340776781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_5
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 816
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb0219ade8f32f10800000000000000
+      internalID: 2243910738988108746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 817
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55a99eebf0b6280800000000000000
+      internalID: -9049121713633471010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 816
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9057d9b4dee730800000000000000
+      internalID: 4030392611189595085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 687
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f4fdaa37998f2a0800000000000000
+      internalID: -6703439323273932920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 687
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5eadf3407408790800000000000000
+      internalID: -7529940493386717722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 687
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05fe2c5fb8e9a30800000000000000
+      internalID: 4223967388173816063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeOut_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 687
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05879ceb8909f9750800000000000000
+      internalID: 6313924188307028048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCharacter_Dash_FadeOut_0: 873461438681977078
+      MainCharacter_Dash_FadeOut_1: -8785511567220134172
+      MainCharacter_Dash_FadeOut_10: 4223967388173816063
+      MainCharacter_Dash_FadeOut_11: 6313924188307028048
+      MainCharacter_Dash_FadeOut_2: -4201141840290463781
+      MainCharacter_Dash_FadeOut_3: 3564814134996027311
+      MainCharacter_Dash_FadeOut_4: 5974469156340776781
+      MainCharacter_Dash_FadeOut_5: 2243910738988108746
+      MainCharacter_Dash_FadeOut_6: -9049121713633471010
+      MainCharacter_Dash_FadeOut_7: 4030392611189595085
+      MainCharacter_Dash_FadeOut_8: -6703439323273932920
+      MainCharacter_Dash_FadeOut_9: -7529940493386717722
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

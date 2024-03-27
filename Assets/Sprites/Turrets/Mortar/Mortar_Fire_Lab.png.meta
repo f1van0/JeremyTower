@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: ecf67eb153a53c84fb642e894eb3bfe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8312726435059980164
+    second: Mortar_Fire_0
+  - first:
+      213: 7577504333974466584
+    second: Mortar_Fire_1
+  - first:
+      213: -1322826352450726024
+    second: Mortar_Fire_2
+  - first:
+      213: 6372674629311755358
+    second: Mortar_Fire_3
+  - first:
+      213: -47171972369976528
+    second: Mortar_Fire_4
+  - first:
+      213: -8437030961131531367
+    second: Mortar_Fire_5
+  - first:
+      213: 2668340548231070153
+    second: Mortar_Fire_6
+  - first:
+      213: -6438250736766484444
+    second: Mortar_Fire_7
+  - first:
+      213: 4622300976897212989
+    second: Mortar_Fire_8
+  - first:
+      213: 5017112541378019889
+    second: Mortar_Fire_9
+  - first:
+      213: -3504622497884086669
+    second: Mortar_Fire_Lab_0
+  - first:
+      213: -8023552590500307303
+    second: Mortar_Fire_Lab_1
+  - first:
+      213: -5283290549984501019
+    second: Mortar_Fire_Lab_2
+  - first:
+      213: 2941512725367978256
+    second: Mortar_Fire_Lab_3
+  - first:
+      213: -8806664703335743332
+    second: Mortar_Fire_Lab_4
+  - first:
+      213: 1134790682971690973
+    second: Mortar_Fire_Lab_5
+  - first:
+      213: -1084899172001595261
+    second: Mortar_Fire_Lab_6
+  - first:
+      213: -4745302885883188605
+    second: Mortar_Fire_Lab_7
+  - first:
+      213: 944301899314698717
+    second: Mortar_Fire_Lab_8
+  - first:
+      213: 128727731789900827
+    second: Mortar_Fire_Lab_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed6cd08641d5fc0800000000000000
+      internalID: -3504622497884086669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e5096fd6d96a090800000000000000
+      internalID: -8023552590500307303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2eef2ac3bfda6b0800000000000000
+      internalID: -5283290549984501019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01979d92d3a52d820800000000000000
+      internalID: 2941512725367978256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90c3bdac1178c580800000000000000
+      internalID: -8806664703335743332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd753f02d169fbf00800000000000000
+      internalID: 1134790682971690973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380cabb73f9a1f0f0800000000000000
+      internalID: -1084899172001595261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aeb4fba2c452eb0800000000000000
+      internalID: -4745302885883188605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd911650395da1d00800000000000000
+      internalID: 944301899314698717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_Fire_Lab_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2416a03559c100800000000000000
+      internalID: 128727731789900827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mortar_Fire_Lab_0: -3504622497884086669
+      Mortar_Fire_Lab_1: -8023552590500307303
+      Mortar_Fire_Lab_2: -5283290549984501019
+      Mortar_Fire_Lab_3: 2941512725367978256
+      Mortar_Fire_Lab_4: -8806664703335743332
+      Mortar_Fire_Lab_5: 1134790682971690973
+      Mortar_Fire_Lab_6: -1084899172001595261
+      Mortar_Fire_Lab_7: -4745302885883188605
+      Mortar_Fire_Lab_8: 944301899314698717
+      Mortar_Fire_Lab_9: 128727731789900827
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

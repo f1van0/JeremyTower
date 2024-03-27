@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 326aef1a18685454f9902e5531497381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5063163537856821583
+    second: MainCharacter_Dash_FadeIn_0
+  - first:
+      213: 8024163573368976268
+    second: MainCharacter_Dash_FadeIn_1
+  - first:
+      213: -441388984358646044
+    second: MainCharacter_Dash_FadeIn_2
+  - first:
+      213: 2351212550539623879
+    second: MainCharacter_Dash_FadeIn_3
+  - first:
+      213: 3416313306340831566
+    second: MainCharacter_Dash_FadeIn_4
+  - first:
+      213: 5626101253972715687
+    second: MainCharacter_Dash_FadeIn_5
+  - first:
+      213: -6560079234246726817
+    second: MainCharacter_Dash_FadeIn_6
+  - first:
+      213: 2275811663195062477
+    second: MainCharacter_Dash_FadeIn_7
+  - first:
+      213: -4103549490659673066
+    second: MainCharacter_Dash_FadeIn_8
+  - first:
+      213: 1040580694762468903
+    second: MainCharacter_Dash_FadeIn_9
+  - first:
+      213: -8002759324662082680
+    second: MainCharacter_Dash_FadeIn_10
+  - first:
+      213: 3075309399636237779
+    second: MainCharacter_Dash_FadeIn_11
+  - first:
+      213: 7560914457849853718
+    second: MainCharacter_Dash_FadeIn_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_0
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 815
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497aa17968f34640800000000000000
+      internalID: 5063163537856821583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_1
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 815
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837942914e8b5f60800000000000000
+      internalID: 8024163573368976268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 687
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee488bae0fdfd9f0800000000000000
+      internalID: -441388984358646044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdba528b5f21a020800000000000000
+      internalID: 2351212550539623879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b2e90ade296f20800000000000000
+      internalID: 3416313306340831566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a86c69384de31e40800000000000000
+      internalID: 5626101253972715687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_6
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bae4871bae5f4a0800000000000000
+      internalID: -6560079234246726817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ce6066ae459f10800000000000000
+      internalID: 2275811663195062477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_8
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cbef2da734d07c0800000000000000
+      internalID: -4103549490659673066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_9
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 688
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726327fe0a2e07e00800000000000000
+      internalID: 1040580694762468903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 560
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883529e6bcc70f090800000000000000
+      internalID: -8002759324662082680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 561
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dddcb3fa91bdaa20800000000000000
+      internalID: 3075309399636237779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacter_Dash_FadeIn_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 561
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6177145d3a3cde860800000000000000
+      internalID: 7560914457849853718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCharacter_Dash_FadeIn_0: 5063163537856821583
+      MainCharacter_Dash_FadeIn_1: 8024163573368976268
+      MainCharacter_Dash_FadeIn_10: -8002759324662082680
+      MainCharacter_Dash_FadeIn_11: 3075309399636237779
+      MainCharacter_Dash_FadeIn_12: 7560914457849853718
+      MainCharacter_Dash_FadeIn_2: -441388984358646044
+      MainCharacter_Dash_FadeIn_3: 2351212550539623879
+      MainCharacter_Dash_FadeIn_4: 3416313306340831566
+      MainCharacter_Dash_FadeIn_5: 5626101253972715687
+      MainCharacter_Dash_FadeIn_6: -6560079234246726817
+      MainCharacter_Dash_FadeIn_7: 2275811663195062477
+      MainCharacter_Dash_FadeIn_8: -4103549490659673066
+      MainCharacter_Dash_FadeIn_9: 1040580694762468903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

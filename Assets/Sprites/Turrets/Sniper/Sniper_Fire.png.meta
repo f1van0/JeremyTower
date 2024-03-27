@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: d5253ec81a7e0e74eb23424f8462b2cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8312726435059980164
+    second: Mortar_Fire_0
+  - first:
+      213: 7577504333974466584
+    second: Mortar_Fire_1
+  - first:
+      213: -1322826352450726024
+    second: Mortar_Fire_2
+  - first:
+      213: 6372674629311755358
+    second: Mortar_Fire_3
+  - first:
+      213: -47171972369976528
+    second: Mortar_Fire_4
+  - first:
+      213: -8437030961131531367
+    second: Mortar_Fire_5
+  - first:
+      213: 2668340548231070153
+    second: Mortar_Fire_6
+  - first:
+      213: -6438250736766484444
+    second: Mortar_Fire_7
+  - first:
+      213: 4622300976897212989
+    second: Mortar_Fire_8
+  - first:
+      213: 5017112541378019889
+    second: Mortar_Fire_9
+  - first:
+      213: -5871672129048537266
+    second: Machinegun_0
+  - first:
+      213: 6093317697984682371
+    second: Machinegun_1
+  - first:
+      213: 2454370433484685692
+    second: Machinegun_2
+  - first:
+      213: 2120555699212819146
+    second: Machinegun_3
+  - first:
+      213: 1941452496504939703
+    second: Machinegun_4
+  - first:
+      213: -3053412504326114665
+    second: Machinegun_5
+  - first:
+      213: 172373432022664046
+    second: Machinegun_6
+  - first:
+      213: 4082347142313063652
+    second: Machinegun_7
+  - first:
+      213: 5640447059630119729
+    second: Machinegun_8
+  - first:
+      213: 2961905131117692845
+    second: Machinegun_9
+  - first:
+      213: -4998114034675042731
+    second: Machinegun_10
+  - first:
+      213: 8856623279611670937
+    second: Machinegun_11
+  - first:
+      213: 6462370419411399716
+    second: Machinegun_12
+  - first:
+      213: -7131378402135776310
+    second: Machinegun_13
+  - first:
+      213: 6430572792938183477
+    second: Machinegun_14
+  - first:
+      213: -3649988365604108555
+    second: Machinegun_15
+  - first:
+      213: -776529591848497520
+    second: Machinegun_16
+  - first:
+      213: 5942287194541538920
+    second: Machinegun_17
+  - first:
+      213: 6901264455312562845
+    second: Machinegun_18
+  - first:
+      213: -4369876002316235344
+    second: Machinegun_19
+  - first:
+      213: -1397121699371285960
+    second: Machinegun_20
+  - first:
+      213: 1585416630791866032
+    second: Machinegun_21
+  - first:
+      213: 651259093287318275
+    second: Machinegun_22
+  - first:
+      213: 7851573222600788436
+    second: Machinegun_23
+  - first:
+      213: -6355743721677248919
+    second: Machinegun_24
+  - first:
+      213: -7602889490589923594
+    second: Machinegun_25
+  - first:
+      213: -6541459002830992925
+    second: Machinegun_26
+  - first:
+      213: 76486753777899960
+    second: Machinegun_27
+  - first:
+      213: -1457626988725696193
+    second: Machinegun_28
+  - first:
+      213: 3071879921479342413
+    second: Machinegun_29
+  - first:
+      213: -2634582378403921682
+    second: Machinegun_30
+  - first:
+      213: -1085046001097758069
+    second: Machinegun_31
+  - first:
+      213: 6956634292448310588
+    second: Machinegun_32
+  - first:
+      213: 9205930067712643591
+    second: Machinegun_33
+  - first:
+      213: -925313092954314820
+    second: Machinegun_34
+  - first:
+      213: 5767516769906659610
+    second: Machinegun_35
+  - first:
+      213: 9110989363888642903
+    second: Machinegun_36
+  - first:
+      213: 350450559444958019
+    second: Machinegun_37
+  - first:
+      213: -8368565699676490243
+    second: Machinegun_38
+  - first:
+      213: 8015480175652835685
+    second: Machinegun_39
+  - first:
+      213: -6161377432898847050
+    second: Machinegun_40
+  - first:
+      213: -6312101991960391179
+    second: Machinegun_41
+  - first:
+      213: -8824975024093908261
+    second: Machinegun_42
+  - first:
+      213: 1697331867115721893
+    second: Machinegun_43
+  - first:
+      213: 6783428157424631720
+    second: Machinegun_44
+  - first:
+      213: -3219646623355403875
+    second: Machinegun_45
+  - first:
+      213: 7392043469852035391
+    second: Machinegun_46
+  - first:
+      213: 6397997735024014247
+    second: Machinegun_47
+  - first:
+      213: -1154408711186931875
+    second: Machinegun_48
+  - first:
+      213: -1169826393241531337
+    second: Machinegun_49
+  - first:
+      213: -1950188747409131604
+    second: Machinegun_50
+  - first:
+      213: -5934695020051637139
+    second: Machinegun_51
+  - first:
+      213: -5174876989690203349
+    second: Machinegun_52
+  - first:
+      213: 1847517982357642987
+    second: Machinegun_53
+  - first:
+      213: -6940787994923524291
+    second: Machinegun_54
+  - first:
+      213: 6228610565581965080
+    second: Machinegun_55
+  - first:
+      213: -4766159512284107867
+    second: Sniper_Fire_0
+  - first:
+      213: 234335504891995652
+    second: Sniper_Fire_1
+  - first:
+      213: -5786676801144875949
+    second: Sniper_Fire_2
+  - first:
+      213: -4394872225285191469
+    second: Sniper_Fire_3
+  - first:
+      213: 3452241183569110356
+    second: Sniper_Fire_4
+  - first:
+      213: 1901400424326498634
+    second: Sniper_Fire_5
+  - first:
+      213: -7667768094665156714
+    second: Sniper_Fire_6
+  - first:
+      213: 268525917507156043
+    second: Sniper_Fire_7
+  - first:
+      213: 2055424469183732346
+    second: Sniper_Fire_8
+  - first:
+      213: 6123444709768135803
+    second: Sniper_Fire_9
+  - first:
+      213: 5747511113368103077
+    second: Sniper_Fire_10
+  - first:
+      213: 7281138661910014103
+    second: Sniper_Fire_11
+  - first:
+      213: -4531053463982836198
+    second: Sniper_Fire_12
+  - first:
+      213: -197420841455102385
+    second: Sniper_Fire_13
+  - first:
+      213: 8050827251001956422
+    second: Sniper_Fire_14
+  - first:
+      213: 3140351877217895719
+    second: Sniper_Fire_15
+  - first:
+      213: 1556891941249612659
+    second: Sniper_Fire_16
+  - first:
+      213: -8693721067718187815
+    second: Sniper_Fire_17
+  - first:
+      213: -4785709133059900455
+    second: Sniper_Fire_18
+  - first:
+      213: 9186793586021042065
+    second: Sniper_Fire_19
+  - first:
+      213: -6635145372555783711
+    second: Sniper_Fire_20
+  - first:
+      213: 8754619666928553793
+    second: Sniper_Fire_21
+  - first:
+      213: -1790489268258381152
+    second: Sniper_Fire_22
+  - first:
+      213: 3450110221703430439
+    second: Sniper_Fire_23
+  - first:
+      213: 7578614138566901820
+    second: Sniper_Fire_24
+  - first:
+      213: -6772530199470757031
+    second: Sniper_Fire_25
+  - first:
+      213: -4791901164159601623
+    second: Sniper_Fire_26
+  - first:
+      213: 7586487433987785924
+    second: Sniper_Fire_27
+  - first:
+      213: 1327857568410748478
+    second: Sniper_Fire_28
+  - first:
+      213: -7921441564696208063
+    second: Sniper_Fire_29
+  - first:
+      213: 749944673022273343
+    second: Sniper_Fire_30
+  - first:
+      213: 6274644981489718902
+    second: Sniper_Fire_31
+  - first:
+      213: -82679870654768438
+    second: Sniper_Fire_32
+  - first:
+      213: -1938706750601915399
+    second: Sniper_Fire_33
+  - first:
+      213: -4170779068324280813
+    second: Sniper_Fire_34
+  - first:
+      213: -964451476473322769
+    second: Sniper_Fire_35
+  - first:
+      213: -5131272942487649345
+    second: Sniper_Fire_36
+  - first:
+      213: -6613991382920724025
+    second: Sniper_Fire_37
+  - first:
+      213: -8683503226105197133
+    second: Sniper_Fire_38
+  - first:
+      213: 3583518602563842952
+    second: Sniper_Fire_39
+  - first:
+      213: -5283692657268332147
+    second: Sniper_Fire_40
+  - first:
+      213: -7524522760005500645
+    second: Sniper_Fire_41
+  - first:
+      213: -961966375278162135
+    second: Sniper_Fire_42
+  - first:
+      213: 3360419518371194117
+    second: Sniper_Fire_43
+  - first:
+      213: 7787608674575298478
+    second: Sniper_Fire_44
+  - first:
+      213: -8509125403338742679
+    second: Sniper_Fire_45
+  - first:
+      213: -4975868144061053065
+    second: Sniper_Fire_46
+  - first:
+      213: 5457598384913229628
+    second: Sniper_Fire_47
+  - first:
+      213: -4686502825554221364
+    second: Sniper_Fire_48
+  - first:
+      213: -1397356898188766107
+    second: Sniper_Fire_49
+  - first:
+      213: -5337828953592708298
+    second: Sniper_Fire_50
+  - first:
+      213: 6331927088297859135
+    second: Sniper_Fire_51
+  - first:
+      213: 6802249197245928717
+    second: Sniper_Fire_52
+  - first:
+      213: 6089107602573828308
+    second: Sniper_Fire_53
+  - first:
+      213: -8426863247399314954
+    second: Sniper_Fire_54
+  - first:
+      213: -675327694937006530
+    second: Sniper_Fire_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sniper_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abe47ffc233bddb0800000000000000
+      internalID: -4766159512284107867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406695f66e6804300800000000000000
+      internalID: 234335504891995652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35414c5cb1891bfa0800000000000000
+      internalID: -5786676801144875949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d845a20ff64203c0800000000000000
+      internalID: -4394872225285191469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4556c91d013d8ef20800000000000000
+      internalID: 3452241183569110356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4902c3ac91236a10800000000000000
+      internalID: 1901400424326498634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d8612b8d969590800000000000000
+      internalID: -7667768094665156714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48fff536eef9b300800000000000000
+      internalID: 268525917507156043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a97542aa5568c10800000000000000
+      internalID: 2055424469183732346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7489772588daf450800000000000000
+      internalID: 6123444709768135803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86aeee7e243cf40800000000000000
+      internalID: 5747511113368103077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798628f290dcb0560800000000000000
+      internalID: 7281138661910014103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16fffc81e67e11c0800000000000000
+      internalID: -4531053463982836198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465fc96ace924df0800000000000000
+      internalID: -197420841455102385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648910ccab84abf60800000000000000
+      internalID: 8050827251001956422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725cd4fd465c49b20800000000000000
+      internalID: 3140351877217895719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf9d7c8f03b9510800000000000000
+      internalID: 1556891941249612659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e35e00c2b95780800000000000000
+      internalID: -8693721067718187815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3f9536eeb59db0800000000000000
+      internalID: -4785709133059900455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970f9fb71c0e7f70800000000000000
+      internalID: 9186793586021042065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e15cbb207a3be3a0800000000000000
+      internalID: -6635145372555783711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fcceef338ae7970800000000000000
+      internalID: 8754619666928553793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a26f473f77e627e0800000000000000
+      internalID: -1790489268258381152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c39897f041ef20800000000000000
+      internalID: 3450110221703430439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c308803e765ac2960800000000000000
+      internalID: 7578614138566901820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba0fd7aa32302a0800000000000000
+      internalID: -6772530199470757031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247c7f974fbf7db0800000000000000
+      internalID: -4791901164159601623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c48ec3502e984960800000000000000
+      internalID: 7586487433987785924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36cf655c6f7d6210800000000000000
+      internalID: 1327857568410748478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9443ddd2611290800000000000000
+      internalID: -7921441564696208063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3760bce4b6586a00800000000000000
+      internalID: 749944673022273343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d16dbd54041750800000000000000
+      internalID: 6274644981489718902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1c8f78134adef0800000000000000
+      internalID: -82679870654768438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f398b66b745815e0800000000000000
+      internalID: -1938706750601915399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31685ebf88a6e16c0800000000000000
+      internalID: -4170779068324280813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e4b5fd749d92f0800000000000000
+      internalID: -964451476473322769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34379027e0ac8b0800000000000000
+      internalID: -5131272942487649345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1048131e16634a0800000000000000
+      internalID: -6613991382920724025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8a02b2dffd7780800000000000000
+      internalID: -8683503226105197133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88372d7ce273bb130800000000000000
+      internalID: 3583518602563842952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896e2db58d8ca6b0800000000000000
+      internalID: -5283692657268332147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c7899a66839790800000000000000
+      internalID: -7524522760005500645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fccabada866a2f0800000000000000
+      internalID: -961966375278162135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505edc86fbb92ae20800000000000000
+      internalID: 3360419518371194117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafafc934d4231c60800000000000000
+      internalID: 7787608674575298478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964edb8678389e980800000000000000
+      internalID: -8509125403338742679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770f08494a22fab0800000000000000
+      internalID: -4975868144061053065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37af73c0d84dbb40800000000000000
+      internalID: 5457598384913229628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e9f3a28236feb0800000000000000
+      internalID: -4686502825554221364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564540bfd479b9ce0800000000000000
+      internalID: -1397356898188766107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633cf4509d83ce5b0800000000000000
+      internalID: -5337828953592708298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38daa983268fd750800000000000000
+      internalID: 6331927088297859135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d059783ea91766e50800000000000000
+      internalID: 6802249197245928717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02b826a1bd08450800000000000000
+      internalID: 6089107602573828308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f918ff1684cd0b80800000000000000
+      internalID: -8426863247399314954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper_Fire_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3edb4c1a01c0a6f0800000000000000
+      internalID: -675327694937006530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sniper_Fire_0: -4766159512284107867
+      Sniper_Fire_1: 234335504891995652
+      Sniper_Fire_10: 5747511113368103077
+      Sniper_Fire_11: 7281138661910014103
+      Sniper_Fire_12: -4531053463982836198
+      Sniper_Fire_13: -197420841455102385
+      Sniper_Fire_14: 8050827251001956422
+      Sniper_Fire_15: 3140351877217895719
+      Sniper_Fire_16: 1556891941249612659
+      Sniper_Fire_17: -8693721067718187815
+      Sniper_Fire_18: -4785709133059900455
+      Sniper_Fire_19: 9186793586021042065
+      Sniper_Fire_2: -5786676801144875949
+      Sniper_Fire_20: -6635145372555783711
+      Sniper_Fire_21: 8754619666928553793
+      Sniper_Fire_22: -1790489268258381152
+      Sniper_Fire_23: 3450110221703430439
+      Sniper_Fire_24: 7578614138566901820
+      Sniper_Fire_25: -6772530199470757031
+      Sniper_Fire_26: -4791901164159601623
+      Sniper_Fire_27: 7586487433987785924
+      Sniper_Fire_28: 1327857568410748478
+      Sniper_Fire_29: -7921441564696208063
+      Sniper_Fire_3: -4394872225285191469
+      Sniper_Fire_30: 749944673022273343
+      Sniper_Fire_31: 6274644981489718902
+      Sniper_Fire_32: -82679870654768438
+      Sniper_Fire_33: -1938706750601915399
+      Sniper_Fire_34: -4170779068324280813
+      Sniper_Fire_35: -964451476473322769
+      Sniper_Fire_36: -5131272942487649345
+      Sniper_Fire_37: -6613991382920724025
+      Sniper_Fire_38: -8683503226105197133
+      Sniper_Fire_39: 3583518602563842952
+      Sniper_Fire_4: 3452241183569110356
+      Sniper_Fire_40: -5283692657268332147
+      Sniper_Fire_41: -7524522760005500645
+      Sniper_Fire_42: -961966375278162135
+      Sniper_Fire_43: 3360419518371194117
+      Sniper_Fire_44: 7787608674575298478
+      Sniper_Fire_45: -8509125403338742679
+      Sniper_Fire_46: -4975868144061053065
+      Sniper_Fire_47: 5457598384913229628
+      Sniper_Fire_48: -4686502825554221364
+      Sniper_Fire_49: -1397356898188766107
+      Sniper_Fire_5: 1901400424326498634
+      Sniper_Fire_50: -5337828953592708298
+      Sniper_Fire_51: 6331927088297859135
+      Sniper_Fire_52: 6802249197245928717
+      Sniper_Fire_53: 6089107602573828308
+      Sniper_Fire_54: -8426863247399314954
+      Sniper_Fire_55: -675327694937006530
+      Sniper_Fire_6: -7667768094665156714
+      Sniper_Fire_7: 268525917507156043
+      Sniper_Fire_8: 2055424469183732346
+      Sniper_Fire_9: 6123444709768135803
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

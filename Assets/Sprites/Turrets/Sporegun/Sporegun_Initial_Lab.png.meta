@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 43e0726aaf6b9574592de17006187b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7243845712176826767
+    second: Sporegun_Initial_Lab_0
+  - first:
+      213: -7728598785757800817
+    second: Sporegun_Initial_Lab_1
+  - first:
+      213: 6347027045374875505
+    second: Sporegun_Initial_Lab_2
+  - first:
+      213: 1729844888942022753
+    second: Sporegun_Initial_Lab_3
+  - first:
+      213: 403489174634066978
+    second: Sporegun_Initial_Lab_4
+  - first:
+      213: -2953345209420433695
+    second: Sporegun_Initial_Lab_5
+  - first:
+      213: -3128563788490841680
+    second: Sporegun_Initial_Lab_6
+  - first:
+      213: -1979253339090478187
+    second: Sporegun_Initial_Lab_7
+  - first:
+      213: -603949863307142848
+    second: Sporegun_Initial_Lab_8
+  - first:
+      213: -6057088028745747389
+    second: Sporegun_Initial_Lab_9
+  - first:
+      213: 282647246403602701
+    second: Sporegun_Initial_Lab_10
+  - first:
+      213: 3402114716390022306
+    second: Sporegun_Initial_Lab_11
+  - first:
+      213: 7531226595300058432
+    second: Sporegun_Initial_Lab_12
+  - first:
+      213: 3842164948066326676
+    second: Sporegun_Initial_Lab_13
+  - first:
+      213: 1861622945759765927
+    second: Sporegun_Initial_Lab_14
+  - first:
+      213: 2031548342792569757
+    second: Sporegun_Initial_Lab_15
+  - first:
+      213: 3086693238050305715
+    second: Sporegun_Initial_Lab_16
+  - first:
+      213: 1010732693249152685
+    second: Sporegun_Initial_Lab_17
+  - first:
+      213: -241696442191347641
+    second: Sporegun_Initial_Lab_18
+  - first:
+      213: -4978828200529536706
+    second: Sporegun_Initial_Lab_19
+  - first:
+      213: -2362525329522953615
+    second: Sporegun_Initial_Lab_20
+  - first:
+      213: -5641170605647202666
+    second: Sporegun_Initial_Lab_21
+  - first:
+      213: 4002038923077792028
+    second: Sporegun_Initial_Lab_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b6fd44b0b87b90800000000000000
+      internalID: -7243845712176826767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86146b2a508eb490800000000000000
+      internalID: -7728598785757800817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177dd53487b251850800000000000000
+      internalID: 6347027045374875505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601ae9e2c4a10810800000000000000
+      internalID: 1729844888942022753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22477cc344b799500800000000000000
+      internalID: 403489174634066978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b465fd2c9307d0800000000000000
+      internalID: -2953345209420433695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16ad96fcb1594d0800000000000000
+      internalID: -3128563788490841680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b910b13974884e0800000000000000
+      internalID: -1979253339090478187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0499e679cc65e97f0800000000000000
+      internalID: -603949863307142848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b6599786e0fba0800000000000000
+      internalID: -6057088028745747389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0901ae4c2a2ce300800000000000000
+      internalID: 282647246403602701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5e833f4db63f20800000000000000
+      internalID: 3402114716390022306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a5dfafaa448860800000000000000
+      internalID: 7531226595300058432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49853f1e9ac125530800000000000000
+      internalID: 3842164948066326676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52ab3b430d5d910800000000000000
+      internalID: 1861622945759765927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934f244472813c10800000000000000
+      internalID: 2031548342792569757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b690652326da20800000000000000
+      internalID: 3086693238050305715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da65df78708d60e00800000000000000
+      internalID: 1010732693249152685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74085bbcd5255acf0800000000000000
+      internalID: -241696442191347641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395dbd6126a7eab0800000000000000
+      internalID: -4978828200529536706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fbe0eabf963fd0800000000000000
+      internalID: -2362525329522953615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696f50de83986b1b0800000000000000
+      internalID: -5641170605647202666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporegun_Initial_Lab_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b65362391a8730800000000000000
+      internalID: 4002038923077792028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sporegun_Initial_Lab_0: -7243845712176826767
+      Sporegun_Initial_Lab_1: -7728598785757800817
+      Sporegun_Initial_Lab_10: 282647246403602701
+      Sporegun_Initial_Lab_11: 3402114716390022306
+      Sporegun_Initial_Lab_12: 7531226595300058432
+      Sporegun_Initial_Lab_13: 3842164948066326676
+      Sporegun_Initial_Lab_14: 1861622945759765927
+      Sporegun_Initial_Lab_15: 2031548342792569757
+      Sporegun_Initial_Lab_16: 3086693238050305715
+      Sporegun_Initial_Lab_17: 1010732693249152685
+      Sporegun_Initial_Lab_18: -241696442191347641
+      Sporegun_Initial_Lab_19: -4978828200529536706
+      Sporegun_Initial_Lab_2: 6347027045374875505
+      Sporegun_Initial_Lab_20: -2362525329522953615
+      Sporegun_Initial_Lab_21: -5641170605647202666
+      Sporegun_Initial_Lab_22: 4002038923077792028
+      Sporegun_Initial_Lab_3: 1729844888942022753
+      Sporegun_Initial_Lab_4: 403489174634066978
+      Sporegun_Initial_Lab_5: -2953345209420433695
+      Sporegun_Initial_Lab_6: -3128563788490841680
+      Sporegun_Initial_Lab_7: -1979253339090478187
+      Sporegun_Initial_Lab_8: -603949863307142848
+      Sporegun_Initial_Lab_9: -6057088028745747389
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

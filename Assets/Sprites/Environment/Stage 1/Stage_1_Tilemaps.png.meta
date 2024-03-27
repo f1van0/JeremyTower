@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 6de70468e4591c7408b5ac1004ce7866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7192091167037114141
+    second: Stage_1_Steep_LeftCorner
+  - first:
+      213: -4679353151516142580
+    second: Stage_1_Steep_RightCorner
+  - first:
+      213: -4088159948148250675
+    second: Stage_1_Corner_Right_Steep
+  - first:
+      213: 4993730369155805686
+    second: Stage_1_Corner_RightBack
+  - first:
+      213: 7762710928095538497
+    second: Stage_1_Border_Right_Steep
+  - first:
+      213: 8180661954658961831
+    second: Stage_1_Block_3
+  - first:
+      213: 2442838705444731509
+    second: Stage_1_Border_Down
+  - first:
+      213: -926078387815763125
+    second: Stage_1_Border_Right_2
+  - first:
+      213: -5520322282423159102
+    second: Stage_1_Corner_LeftBack
+  - first:
+      213: -7919691264532605988
+    second: Stage_1_Border_Up
+  - first:
+      213: -4120009117329774982
+    second: Stage_1_Tilemaps_10
+  - first:
+      213: 7476263860275152637
+    second: Stage_1_Tilemaps_11
+  - first:
+      213: 1215968492017688277
+    second: Stage_1_Tilemaps_12
+  - first:
+      213: 4911006418613929045
+    second: Stage_1_Tilemaps_13
+  - first:
+      213: 7066963595462865288
+    second: Stage_1_Corner_LeftBack_Inner
+  - first:
+      213: -9112196999180455946
+    second: Stage_1_RockWall
+  - first:
+      213: 8744149143007126855
+    second: Stage_1_RockWall_Right
+  - first:
+      213: 3813721546875337034
+    second: Stage_1_Tilemaps_17
+  - first:
+      213: 318474945586742479
+    second: Stage_1_Tilemaps_18
+  - first:
+      213: -4452558138100115578
+    second: Stage_1_Tilemaps_19
+  - first:
+      213: -901826264490937493
+    second: Stage_1_Tilemaps_20
+  - first:
+      213: 7054454385611041183
+    second: Stage_1_Tilemaps_21
+  - first:
+      213: -8209764149019575191
+    second: Stage_1_Tilemaps_22
+  - first:
+      213: 5147909952692643702
+    second: Stage_1_Tilemaps_23
+  - first:
+      213: -2934101446967994506
+    second: Stage_1_Tilemaps_24
+  - first:
+      213: 7516848555830672655
+    second: Stage_1_Tilemaps_25
+  - first:
+      213: 1556304572591646757
+    second: Stage_1_Tilemaps_26
+  - first:
+      213: 3298838647247467646
+    second: Stage_1_Tilemaps_27
+  - first:
+      213: -5195775959698625388
+    second: Stage_1_Tilemaps_28
+  - first:
+      213: 962798486301913723
+    second: Stage_1_Vents
+  - first:
+      213: 766299335872927618
+    second: Stage_1_Tilemaps_30
+  - first:
+      213: 8577698903850343510
+    second: Stage_1_Tilemaps_31
+  - first:
+      213: -7539389551895808754
+    second: Stage_1_Tilemaps_32
+  - first:
+      213: -5207041345187861613
+    second: Stage_1_Tilemaps_33
+  - first:
+      213: -71754481673091761
+    second: Stage_1_Tilemaps_34
+  - first:
+      213: -2561992233993101203
+    second: Stage_1_Tilemaps_35
+  - first:
+      213: -2398714732441191091
+    second: Stage_1_Tilemaps_36
+  - first:
+      213: -784715363935529597
+    second: Stage_1_Border_Right
+  - first:
+      213: 7715876456062601988
+    second: Stage_1_Tilemaps_38
+  - first:
+      213: -6613843604869944251
+    second: Stage_1_Tilemaps_39
+  - first:
+      213: 6273604909388053036
+    second: Stage_1_Tilemaps_40
+  - first:
+      213: 1361463959143592854
+    second: Stage_1_Tilemaps_41
+  - first:
+      213: -5565821078830330217
+    second: Stage_1_Tilemaps_42
+  - first:
+      213: -7544644360157600617
+    second: Stage_1_Tilemaps_43
+  - first:
+      213: 8689216784565706548
+    second: Stage_1_Tilemaps_44
+  - first:
+      213: -7204368418509867192
+    second: Stage_1_Tilemaps_45
+  - first:
+      213: -6676334224702142111
+    second: Stage_1_Tilemaps_46
+  - first:
+      213: -4699251607896600699
+    second: Stage_1_Tilemaps_47
+  - first:
+      213: -8606436718113587086
+    second: Stage_1_Tilemaps_48
+  - first:
+      213: 5543853651121681385
+    second: Stage_1_Ground
+  - first:
+      213: 2226682360881990632
+    second: Stage_1_Tilemaps_50
+  - first:
+      213: -976180415952132873
+    second: Stage_1_Tilemaps_51
+  - first:
+      213: -2406593113570297903
+    second: Stage_1_Tilemaps_52
+  - first:
+      213: -1703406894233388500
+    second: Stage_1_Block_4
+  - first:
+      213: 6767362366827517478
+    second: Stage_1_Tilemaps_54
+  - first:
+      213: -4942088179998117628
+    second: Stage_1_Tilemaps_55
+  - first:
+      213: 7946562477237491610
+    second: Stage_1_Tilemaps_56
+  - first:
+      213: -6733888671662296662
+    second: Stage_1_Tilemaps_57
+  - first:
+      213: 4198712658661335638
+    second: Stage_1_Tilemaps_58
+  - first:
+      213: 4367519528610686706
+    second: Stage_1_Tilemaps_59
+  - first:
+      213: -6818958844371832700
+    second: Stage_1_Tilemaps_60
+  - first:
+      213: -2391994020116204212
+    second: Stage_1_Tilemaps_61
+  - first:
+      213: 5244103516091348418
+    second: Stage_1_Tilemaps_62
+  - first:
+      213: 4655464765141433781
+    second: Stage_1_Tilemaps_63
+  - first:
+      213: 554098119568000140
+    second: Stage_1_Tilemaps_64
+  - first:
+      213: 4316104820503732579
+    second: Stage_1_Corner_RightBack_Inner
+  - first:
+      213: -1672726002405138051
+    second: Stage_1_Tilemaps_66
+  - first:
+      213: -2065304031059844360
+    second: Stage_1_Tilemaps_67
+  - first:
+      213: -8855522882592525153
+    second: Stage_1_Border_Left
+  - first:
+      213: 5233279734765448605
+    second: Stage_1_Block_1
+  - first:
+      213: 5810556407306362789
+    second: Stage_1_Tilemaps_70
+  - first:
+      213: -6297549111640017813
+    second: Stage_1_Block_2
+  - first:
+      213: 4506476973926485259
+    second: Stage_1_Tilemaps_72
+  - first:
+      213: -3414884538498817990
+    second: Stage_1_Tilemaps_73
+  - first:
+      213: 8171226485828011457
+    second: Stage_1_Tilemaps_74
+  - first:
+      213: 1890026241944526854
+    second: Stage_1_Corner_Right_Inner
+  - first:
+      213: -890634471244648420
+    second: Stage_1_Tilemaps_76
+  - first:
+      213: -8644388304784933661
+    second: Stage_1_Corner_Right
+  - first:
+      213: -4576703582973441836
+    second: Stage_1_Corner_Left
+  - first:
+      213: -4255659476928902200
+    second: Stage_1_Tilemaps_79
+  - first:
+      213: 3509505253139624829
+    second: Stage_1_Border_Down_2
+  - first:
+      213: 6434066525103101915
+    second: Stage_1_Border_Down_3
+  - first:
+      213: 3179470481107596476
+    second: Stage_1_Border_Down_4
+  - first:
+      213: -7347310568995271991
+    second: Stage_1_Border_Down_5
+  - first:
+      213: -5741140424465946280
+    second: Stage_1_Border_Down_6
+  - first:
+      213: -4276866489055092848
+    second: Stage_1_Corner_RightDownOuter
+  - first:
+      213: -4101065668323815841
+    second: Stage_1_Tilemaps_86
+  - first:
+      213: -324136306145050837
+    second: Stage_1_Tilemaps_87
+  - first:
+      213: 5499669092605382907
+    second: Stage_1_RockWall_Left
+  - first:
+      213: -1981229095397318737
+    second: Stage_1_Tilemaps_89
+  - first:
+      213: -71739635850260325
+    second: Stage_1_Tilemaps_90
+  - first:
+      213: -2723404273213947535
+    second: Stage_1_Tilemaps_91
+  - first:
+      213: 6566051399028087854
+    second: Stage_1_Tilemaps_92
+  - first:
+      213: -44921435103203254
+    second: Stage_1_Tilemaps_93
+  - first:
+      213: 3335739223894821923
+    second: Stage_1_Tilemaps_94
+  - first:
+      213: 9047258410908308843
+    second: Stage_1_Tilemaps_95
+  - first:
+      213: 761081697653871276
+    second: Stage_1_Tilemaps_96
+  - first:
+      213: 9083750948652134957
+    second: Stage_1_Tilemaps_103
+  - first:
+      213: -1082719100374835902
+    second: Stage_1_Tilemaps_104
+  - first:
+      213: -1733717376136056561
+    second: Stage_1_Tilemaps_111
+  - first:
+      213: -7799161659100847979
+    second: Stage_1_Tilemaps_112
+  - first:
+      213: -1133126905590919765
+    second: Stage_1_Tilemaps_113
+  - first:
+      213: 8905882164901477845
+    second: Stage_1_EntranceFloor
+  - first:
+      213: 485765637832280270
+    second: Stage_1_Tilemaps_115
+  - first:
+      213: 278413391556043141
+    second: Stage_1_Tilemaps_116
+  - first:
+      213: 8286764271552909818
+    second: Stage_1_Tilemaps_117
+  - first:
+      213: 3364423544433271390
+    second: Stage_1_Tilemaps_118
+  - first:
+      213: 8982250358455234893
+    second: Stage_1_Tilemaps_119
+  - first:
+      213: -7558021401253440946
+    second: Stage_1_Tilemaps_120
+  - first:
+      213: 3115229387429223033
+    second: Stage_1_Tilemaps_121
+  - first:
+      213: 6049105542211838937
+    second: Stage_1_Tilemaps_122
+  - first:
+      213: -4622789276689812530
+    second: Stage_1_Tilemaps_123
+  - first:
+      213: 1820665372348210898
+    second: Stage_1_Tilemaps_124
+  - first:
+      213: -6089989689819169813
+    second: Stage_1_Tilemaps_125
+  - first:
+      213: -4337646217729140286
+    second: Stage_1_Tilemaps_126
+  - first:
+      213: 6235665084545531639
+    second: Stage_1_Tilemaps_127
+  - first:
+      213: -8668422371585367018
+    second: Stage_1_Tilemaps_128
+  - first:
+      213: -7503971158561474683
+    second: Stage_1_Tilemaps_129
+  - first:
+      213: 8669397468034457786
+    second: Stage_1_Tilemaps_130
+  - first:
+      213: -6164721944339142244
+    second: Stage_1_Tilemaps_131
+  - first:
+      213: 3221360823286583608
+    second: Stage_1_Tilemaps_132
+  - first:
+      213: 8362583132529286815
+    second: Stage_1_Tilemaps_133
+  - first:
+      213: 630032821768711121
+    second: Stage_1_Tilemaps_134
+  - first:
+      213: 4031230301509943263
+    second: Stage_1_Tilemaps_135
+  - first:
+      213: -325688287592226186
+    second: Stage_1_Tilemaps_136
+  - first:
+      213: -4546319008635690792
+    second: Stage_1_Tilemaps_137
+  - first:
+      213: -1304982111763545595
+    second: Stage_1_Tilemaps_138
+  - first:
+      213: -8491972409014335150
+    second: Stage_1_Tilemaps_139
+  - first:
+      213: -3205455772305375345
+    second: Stage_1_Tilemaps_140
+  - first:
+      213: 1029569786817230221
+    second: Stage_1_Tilemaps_141
+  - first:
+      213: 7516468047780044895
+    second: Stage_1_Tilemaps_142
+  - first:
+      213: 5481767086342173871
+    second: Stage_1_Tilemaps_143
+  - first:
+      213: -6666649147943770365
+    second: Stage_1_Steep
+  - first:
+      213: -2435689284464726956
+    second: Stage_1_Tilemaps_145
+  - first:
+      213: -2922087242997814982
+    second: Stage_1_Tilemaps_146
+  - first:
+      213: 601529318949728074
+    second: Stage_1_Tilemaps_147
+  - first:
+      213: 5924133855994097156
+    second: Stage_1_Tilemaps_148
+  - first:
+      213: -4038310287747864786
+    second: Stage_1_Tilemaps_149
+  - first:
+      213: 6590647929178183287
+    second: Stage_1_Tilemaps_150
+  - first:
+      213: 3573130152357684992
+    second: Stage_1_Tilemaps_151
+  - first:
+      213: -6137062679832068855
+    second: Stage_1_Tilemaps_152
+  - first:
+      213: -915493449408547136
+    second: Stage_1_Tilemaps_153
+  - first:
+      213: -8225391337100368006
+    second: Stage_1_Tilemaps_154
+  - first:
+      213: 4069988423085612126
+    second: Stage_1_Tilemaps_155
+  - first:
+      213: 3380743515066174011
+    second: Stage_1_Tilemaps_156
+  - first:
+      213: 1196135873130113277
+    second: Stage_1_Tilemaps_157
+  - first:
+      213: 9002390731881233825
+    second: Stage_1_Tilemaps_158
+  - first:
+      213: -7255246383488358072
+    second: Stage_1_Tilemaps_159
+  - first:
+      213: -1048087595178433368
+    second: Stage_1_Entrance
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_1_Corner_RightBack
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 721
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1bc95105b4d4540800000000000000
+      internalID: 4993730369155805686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_LeftBack
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c67e7ec120e363b0800000000000000
+      internalID: -5520322282423159102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Border_Up
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 641
+        width: 200
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 40, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd315c651ca971290800000000000000
+      internalID: -7919691264532605988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_LeftBack_Inner
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 641
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817e2c92f5e21260800000000000000
+      internalID: 7066963595462865288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Vents
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 521
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b723f464f1c8c5d00800000000000000
+      internalID: 962798486301913723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Border_Right
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 561
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 40, z: 0, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d4dab8812c15f0800000000000000
+      internalID: -784715363935529597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Ground
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 441
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e33cd9e589bfec40800000000000000
+      internalID: 5543853651121681385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Block_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 481
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a744964784c58e0800000000000000
+      internalID: -1703406894233388500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_RightBack_Inner
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e97f6772e5eb30800000000000000
+      internalID: 4316104820503732579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Border_Left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 40
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 40, z: 0, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94baba5bdcda1580800000000000000
+      internalID: -8855522882592525153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Block_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 401
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9de1f0113850a840800000000000000
+      internalID: 5233279734765448605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Block_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 401
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64be15e27c9a98a0800000000000000
+      internalID: -6297549111640017813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_Right_Inner
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 401
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600254f6ad8ba3a10800000000000000
+      internalID: 1890026241944526854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_Right
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb0c003a6f80880800000000000000
+      internalID: -8644388304784933661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_Left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84c96f6584c70c0800000000000000
+      internalID: -4576703582973441836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_RockWall_Left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf050f6b6efb25c40800000000000000
+      internalID: 5499669092605382907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Steep
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a6aedbed4b73a0800000000000000
+      internalID: -6666649147943770365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Entrance
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 240
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 80, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a465eb92e17471f0800000000000000
+      internalID: -1048087595178433368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Block_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9000b64bc878170800000000000000
+      internalID: 8180661954658961831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Border_Down
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 361
+        width: 240
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 40, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57abb912cd4b6e120800000000000000
+      internalID: 2442838705444731509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_RockWall
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 321
+        width: 240
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 40, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe7749b19fa8180800000000000000
+      internalID: -9112196999180455946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_RockWall_Right
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 241
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e9fb2155795970800000000000000
+      internalID: 8744149143007126855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Steep_LeftCorner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 40, z: 0, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c873afc07fc360800000000000000
+      internalID: 7192091167037114141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Steep_RightCorner
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 40, z: 0, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049649d9199f0fb0800000000000000
+      internalID: -4679353151516142580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Corner_Right_Steep
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 361
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e4a9ef20f347c0800000000000000
+      internalID: -4088159948148250675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Border_Right_Steep
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d6d23e570babb60800000000000000
+      internalID: 7762710928095538497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage_1_Block_1: 5233279734765448605
+      Stage_1_Block_2: -6297549111640017813
+      Stage_1_Block_3: 8180661954658961831
+      Stage_1_Block_4: -1703406894233388500
+      Stage_1_Border_Down: 2442838705444731509
+      Stage_1_Border_Left: -8855522882592525153
+      Stage_1_Border_Right: -784715363935529597
+      Stage_1_Border_Right_Steep: 7762710928095538497
+      Stage_1_Border_Up: -7919691264532605988
+      Stage_1_Corner_Left: -4576703582973441836
+      Stage_1_Corner_LeftBack: -5520322282423159102
+      Stage_1_Corner_LeftBack_Inner: 7066963595462865288
+      Stage_1_Corner_Right: -8644388304784933661
+      Stage_1_Corner_RightBack: 4993730369155805686
+      Stage_1_Corner_RightBack_Inner: 4316104820503732579
+      Stage_1_Corner_Right_Inner: 1890026241944526854
+      Stage_1_Corner_Right_Steep: -4088159948148250675
+      Stage_1_Entrance: -1048087595178433368
+      Stage_1_Ground: 5543853651121681385
+      Stage_1_RockWall: -9112196999180455946
+      Stage_1_RockWall_Left: 5499669092605382907
+      Stage_1_RockWall_Right: 8744149143007126855
+      Stage_1_Steep: -6666649147943770365
+      Stage_1_Steep_LeftCorner: 7192091167037114141
+      Stage_1_Steep_RightCorner: -4679353151516142580
+      Stage_1_Vents: 962798486301913723
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

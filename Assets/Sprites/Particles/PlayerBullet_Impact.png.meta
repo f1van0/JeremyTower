@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 773a329d7cba3f946888b5cccc2ab073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8140593895237489223
+    second: PlayerBullet_0
+  - first:
+      213: -7484447809639736232
+    second: PlayerBullet_1
+  - first:
+      213: -3771614941500981657
+    second: PlayerBullet_2
+  - first:
+      213: 6103179255318148469
+    second: PlayerBullet_3
+  - first:
+      213: 4877907915209665677
+    second: PlayerBullet_4
+  - first:
+      213: 4088354968428807101
+    second: PlayerBullet_5
+  - first:
+      213: -3841160514756827035
+    second: PlayerBullet_6
+  - first:
+      213: -2557941232359661602
+    second: PlayerBullet_7
+  - first:
+      213: 2499810229697082586
+    second: PlayerBullet_8
+  - first:
+      213: 114282633625293309
+    second: PlayerBullet_9
+  - first:
+      213: 6898845242417919192
+    second: PlayerBullet_10
+  - first:
+      213: -4953480444026730797
+    second: PlayerBullet_11
+  - first:
+      213: -6671895657802648885
+    second: PlayerBullet_12
+  - first:
+      213: -7314996935276804027
+    second: PlayerBullet_13
+  - first:
+      213: -905069012624892845
+    second: PlayerBullet_14
+  - first:
+      213: -1170496394791301470
+    second: PlayerBullet_15
+  - first:
+      213: 608191404425648766
+    second: PlayerBullet_16
+  - first:
+      213: -6629007049969328176
+    second: PlayerBullet_17
+  - first:
+      213: -5071153530446310305
+    second: PlayerBullet_18
+  - first:
+      213: -2697087730865311005
+    second: PlayerBullet_19
+  - first:
+      213: -138504983396867377
+    second: PlayerBullet_20
+  - first:
+      213: 6080127807359690293
+    second: PlayerBullet_21
+  - first:
+      213: -8617990223289827596
+    second: PlayerBullet_22
+  - first:
+      213: 1933898581343283948
+    second: PlayerBullet_23
+  - first:
+      213: -4480898349619751026
+    second: PlayerBullet_24
+  - first:
+      213: 4606877567279521993
+    second: PlayerBullet_25
+  - first:
+      213: -4587391636622396063
+    second: PlayerBullet_26
+  - first:
+      213: -119563492718258313
+    second: PlayerBullet_27
+  - first:
+      213: -343098979910168800
+    second: PlayerBullet_28
+  - first:
+      213: -1281719455496693105
+    second: PlayerBullet_29
+  - first:
+      213: -6221874641840899504
+    second: PlayerBullet_30
+  - first:
+      213: 6124168848505923737
+    second: PlayerBullet_31
+  - first:
+      213: 9126619525149792081
+    second: PlayerBullet_32
+  - first:
+      213: 5079124401811831693
+    second: PlayerBullet_33
+  - first:
+      213: 1207508207936353728
+    second: PlayerBullet_34
+  - first:
+      213: 7004518886120364306
+    second: PlayerBullet_35
+  - first:
+      213: -7488685355304455658
+    second: PlayerBullet_36
+  - first:
+      213: -4914423116672902914
+    second: PlayerBullet_37
+  - first:
+      213: -2318361981839111325
+    second: PlayerBullet_38
+  - first:
+      213: -2161988071883310966
+    second: PlayerBullet_39
+  - first:
+      213: 4876220931853060111
+    second: PlayerBullet_40
+  - first:
+      213: -8278412983826264092
+    second: PlayerBullet_41
+  - first:
+      213: 4495695292940834338
+    second: PlayerBullet_42
+  - first:
+      213: 2838325052374518663
+    second: PlayerBullet_43
+  - first:
+      213: -6926249821394185298
+    second: PlayerBullet_44
+  - first:
+      213: -5469464319245158828
+    second: PlayerBullet_45
+  - first:
+      213: -7645924785042890000
+    second: PlayerBullet_46
+  - first:
+      213: 9017553522327252853
+    second: PlayerBullet_47
+  - first:
+      213: 5537472282615850849
+    second: PlayerBullet_Impact_0
+  - first:
+      213: 5065759637784660827
+    second: PlayerBullet_Impact_1
+  - first:
+      213: 6200168560295079583
+    second: PlayerBullet_Impact_2
+  - first:
+      213: 5314859194707223923
+    second: PlayerBullet_Impact_3
+  - first:
+      213: -1399794564644369051
+    second: PlayerBullet_Impact_4
+  - first:
+      213: 1471167485725844466
+    second: PlayerBullet_Impact_5
+  - first:
+      213: -2401706016341275824
+    second: PlayerBullet_Impact_6
+  - first:
+      213: -7593946328606462469
+    second: PlayerBullet_Impact_7
+  - first:
+      213: 5919418795774723763
+    second: PlayerBullet_Impact_8
+  - first:
+      213: -9212984941395615928
+    second: PlayerBullet_Impact_9
+  - first:
+      213: -1474495886634116525
+    second: PlayerBullet_Impact_10
+  - first:
+      213: -6021048404048409132
+    second: PlayerBullet_Impact_11
+  - first:
+      213: 3815238541057672868
+    second: PlayerBullet_Impact_12
+  - first:
+      213: -8496528289372735952
+    second: PlayerBullet_Impact_13
+  - first:
+      213: 3628965198097041812
+    second: PlayerBullet_Impact_14
+  - first:
+      213: 5039364101812614759
+    second: PlayerBullet_Impact_15
+  - first:
+      213: 4812445808758591036
+    second: PlayerBullet_Impact_16
+  - first:
+      213: -3744982545845212931
+    second: PlayerBullet_Impact_17
+  - first:
+      213: -7016813253447079090
+    second: PlayerBullet_Impact_18
+  - first:
+      213: -3846223029467906899
+    second: PlayerBullet_Impact_19
+  - first:
+      213: -8389211651016446486
+    second: PlayerBullet_Impact_20
+  - first:
+      213: 2480204794869188558
+    second: PlayerBullet_Impact_21
+  - first:
+      213: -7945693067290519288
+    second: PlayerBullet_Impact_22
+  - first:
+      213: -754997491917920482
+    second: PlayerBullet_Impact_23
+  - first:
+      213: -9162640397940421826
+    second: PlayerBullet_Impact_24
+  - first:
+      213: 5866372316888165432
+    second: PlayerBullet_Impact_25
+  - first:
+      213: -2101240093243381803
+    second: PlayerBullet_Impact_26
+  - first:
+      213: -6458745864042181307
+    second: PlayerBullet_Impact_27
+  - first:
+      213: -6892305824287366508
+    second: PlayerBullet_Impact_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167a3e6c3bd09dc40800000000000000
+      internalID: 5537472282615850849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 190
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8aaf0d813d4640800000000000000
+      internalID: 5065759637784660827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 190
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eeee7a47c6b0650800000000000000
+      internalID: 6200168560295079583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 190
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752ebb374c22c940800000000000000
+      internalID: 5314859194707223923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 190
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d89d7824ee29ce0800000000000000
+      internalID: -1399794564644369051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 190
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32bcf9803aa6410800000000000000
+      internalID: 1471167485725844466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b4f095a1d6baed0800000000000000
+      internalID: -2401706016341275824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda7007c02ec9690800000000000000
+      internalID: -7593946328606462469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 152
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b64ce64800062250800000000000000
+      internalID: 5919418795774723763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f571f1207e42080800000000000000
+      internalID: -9212984941395615928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1666adc9898be0800000000000000
+      internalID: -1474495886634116525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 152
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd034d9060f07ca0800000000000000
+      internalID: -6021048404048409132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64f153d3372f430800000000000000
+      internalID: 3815238541057672868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03671ef8984461a80800000000000000
+      internalID: -8496528289372735952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49944dede9cac5230800000000000000
+      internalID: 3628965198097041812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766756e63fa6fe540800000000000000
+      internalID: 5039364101812614759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 114
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8fd337fd39c240800000000000000
+      internalID: 4812445808758591036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 114
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8abd06736270cc0800000000000000
+      internalID: -3744982545845212931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba80dc5854f9e90800000000000000
+      internalID: -7016813253447079090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac73a968887f9ac0800000000000000
+      internalID: -3846223029467906899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda89b8378839b80800000000000000
+      internalID: -8389211651016446486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec70668ce157b6220800000000000000
+      internalID: 2480204794869188558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095dddd04a3bb190800000000000000
+      internalID: -7945693067290519288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ebeff7c5b585f0800000000000000
+      internalID: -754997491917920482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b0e149a13c7d080800000000000000
+      internalID: -9162640397940421826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ced447a8a896150800000000000000
+      internalID: 5866372316888165432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d76b6e9445e6d2e0800000000000000
+      internalID: -2101240093243381803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0e374bdced56a0800000000000000
+      internalID: -6458745864042181307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBullet_Impact_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492eefbae5c9950a0800000000000000
+      internalID: -6892305824287366508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerBullet_Impact_0: 5537472282615850849
+      PlayerBullet_Impact_1: 5065759637784660827
+      PlayerBullet_Impact_10: -1474495886634116525
+      PlayerBullet_Impact_11: -6021048404048409132
+      PlayerBullet_Impact_12: 3815238541057672868
+      PlayerBullet_Impact_13: -8496528289372735952
+      PlayerBullet_Impact_14: 3628965198097041812
+      PlayerBullet_Impact_15: 5039364101812614759
+      PlayerBullet_Impact_16: 4812445808758591036
+      PlayerBullet_Impact_17: -3744982545845212931
+      PlayerBullet_Impact_18: -7016813253447079090
+      PlayerBullet_Impact_19: -3846223029467906899
+      PlayerBullet_Impact_2: 6200168560295079583
+      PlayerBullet_Impact_20: -8389211651016446486
+      PlayerBullet_Impact_21: 2480204794869188558
+      PlayerBullet_Impact_22: -7945693067290519288
+      PlayerBullet_Impact_23: -754997491917920482
+      PlayerBullet_Impact_24: -9162640397940421826
+      PlayerBullet_Impact_25: 5866372316888165432
+      PlayerBullet_Impact_26: -2101240093243381803
+      PlayerBullet_Impact_27: -6458745864042181307
+      PlayerBullet_Impact_28: -6892305824287366508
+      PlayerBullet_Impact_3: 5314859194707223923
+      PlayerBullet_Impact_4: -1399794564644369051
+      PlayerBullet_Impact_5: 1471167485725844466
+      PlayerBullet_Impact_6: -2401706016341275824
+      PlayerBullet_Impact_7: -7593946328606462469
+      PlayerBullet_Impact_8: 5919418795774723763
+      PlayerBullet_Impact_9: -9212984941395615928
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

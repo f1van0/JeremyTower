@@ -1,0 +1,1589 @@
+fileFormatVersion: 2
+guid: 3caf8be91a70a3e40943a3e3ceb49252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8312726435059980164
+    second: Mortar_Fire_0
+  - first:
+      213: 7577504333974466584
+    second: Mortar_Fire_1
+  - first:
+      213: -1322826352450726024
+    second: Mortar_Fire_2
+  - first:
+      213: 6372674629311755358
+    second: Mortar_Fire_3
+  - first:
+      213: -47171972369976528
+    second: Mortar_Fire_4
+  - first:
+      213: -8437030961131531367
+    second: Mortar_Fire_5
+  - first:
+      213: 2668340548231070153
+    second: Mortar_Fire_6
+  - first:
+      213: -6438250736766484444
+    second: Mortar_Fire_7
+  - first:
+      213: 4622300976897212989
+    second: Mortar_Fire_8
+  - first:
+      213: 5017112541378019889
+    second: Mortar_Fire_9
+  - first:
+      213: -5871672129048537266
+    second: Machinegun_0
+  - first:
+      213: 6093317697984682371
+    second: Machinegun_1
+  - first:
+      213: 2454370433484685692
+    second: Machinegun_2
+  - first:
+      213: 2120555699212819146
+    second: Machinegun_3
+  - first:
+      213: 1941452496504939703
+    second: Machinegun_4
+  - first:
+      213: -3053412504326114665
+    second: Machinegun_5
+  - first:
+      213: 172373432022664046
+    second: Machinegun_6
+  - first:
+      213: 4082347142313063652
+    second: Machinegun_7
+  - first:
+      213: 5640447059630119729
+    second: Machinegun_8
+  - first:
+      213: 2961905131117692845
+    second: Machinegun_9
+  - first:
+      213: -4998114034675042731
+    second: Machinegun_10
+  - first:
+      213: 8856623279611670937
+    second: Machinegun_11
+  - first:
+      213: 6462370419411399716
+    second: Machinegun_12
+  - first:
+      213: -7131378402135776310
+    second: Machinegun_13
+  - first:
+      213: 6430572792938183477
+    second: Machinegun_14
+  - first:
+      213: -3649988365604108555
+    second: Machinegun_15
+  - first:
+      213: -776529591848497520
+    second: Machinegun_16
+  - first:
+      213: 5942287194541538920
+    second: Machinegun_17
+  - first:
+      213: 6901264455312562845
+    second: Machinegun_18
+  - first:
+      213: -4369876002316235344
+    second: Machinegun_19
+  - first:
+      213: -1397121699371285960
+    second: Machinegun_20
+  - first:
+      213: 1585416630791866032
+    second: Machinegun_21
+  - first:
+      213: 651259093287318275
+    second: Machinegun_22
+  - first:
+      213: 7851573222600788436
+    second: Machinegun_23
+  - first:
+      213: -6355743721677248919
+    second: Machinegun_24
+  - first:
+      213: -7602889490589923594
+    second: Machinegun_25
+  - first:
+      213: -6541459002830992925
+    second: Machinegun_26
+  - first:
+      213: 76486753777899960
+    second: Machinegun_27
+  - first:
+      213: -1457626988725696193
+    second: Machinegun_28
+  - first:
+      213: 3071879921479342413
+    second: Machinegun_29
+  - first:
+      213: -2634582378403921682
+    second: Machinegun_30
+  - first:
+      213: -1085046001097758069
+    second: Machinegun_31
+  - first:
+      213: 6956634292448310588
+    second: Machinegun_32
+  - first:
+      213: 9205930067712643591
+    second: Machinegun_33
+  - first:
+      213: -925313092954314820
+    second: Machinegun_34
+  - first:
+      213: 5767516769906659610
+    second: Machinegun_35
+  - first:
+      213: 9110989363888642903
+    second: Machinegun_36
+  - first:
+      213: 350450559444958019
+    second: Machinegun_37
+  - first:
+      213: -8368565699676490243
+    second: Machinegun_38
+  - first:
+      213: 8015480175652835685
+    second: Machinegun_39
+  - first:
+      213: -6161377432898847050
+    second: Machinegun_40
+  - first:
+      213: -6312101991960391179
+    second: Machinegun_41
+  - first:
+      213: -8824975024093908261
+    second: Machinegun_42
+  - first:
+      213: 1697331867115721893
+    second: Machinegun_43
+  - first:
+      213: 6783428157424631720
+    second: Machinegun_44
+  - first:
+      213: -3219646623355403875
+    second: Machinegun_45
+  - first:
+      213: 7392043469852035391
+    second: Machinegun_46
+  - first:
+      213: 6397997735024014247
+    second: Machinegun_47
+  - first:
+      213: -1154408711186931875
+    second: Machinegun_48
+  - first:
+      213: -1169826393241531337
+    second: Machinegun_49
+  - first:
+      213: -1950188747409131604
+    second: Machinegun_50
+  - first:
+      213: -5934695020051637139
+    second: Machinegun_51
+  - first:
+      213: -5174876989690203349
+    second: Machinegun_52
+  - first:
+      213: 1847517982357642987
+    second: Machinegun_53
+  - first:
+      213: -6940787994923524291
+    second: Machinegun_54
+  - first:
+      213: 6228610565581965080
+    second: Machinegun_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Machinegun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47108ede41a38ea0800000000000000
+      internalID: -5871672129048537266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895afb9920df8450800000000000000
+      internalID: 6093317697984682371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71831bc7ecaf0220800000000000000
+      internalID: 2454370433484685692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca920a5c2abd6d10800000000000000
+      internalID: 2120555699212819146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e87262cc61fa10800000000000000
+      internalID: 1941452496504939703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f7e6418910a5d0800000000000000
+      internalID: -3053412504326114665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630d6029b4646200800000000000000
+      internalID: 172373432022664046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 480
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b663c81967a830800000000000000
+      internalID: 4082347142313063652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b56a367b4e64e40800000000000000
+      internalID: 5640447059630119729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74dae160dca1920800000000000000
+      internalID: 2961905131117692845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556bc4044c123aab0800000000000000
+      internalID: -4998114034675042731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99175bac2fb09ea70800000000000000
+      internalID: 8856623279611670937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424320848a3fea950800000000000000
+      internalID: 6462370419411399716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3edcd7021480d90800000000000000
+      internalID: -7131378402135776310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3f5172ebfd3950800000000000000
+      internalID: 6430572792938183477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6cbd18be2a85dc0800000000000000
+      internalID: -3649988365604108555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8a4053763935f0800000000000000
+      internalID: -776529591848497520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e300848be377250800000000000000
+      internalID: 5942287194541538920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5fe7257736cf50800000000000000
+      internalID: 6901264455312562845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdcf61bde41b53c0800000000000000
+      internalID: -4369876002316235344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320cf8773d6c9ce0800000000000000
+      internalID: -1397121699371285960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6885b9608800610800000000000000
+      internalID: 1585416630791866032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3033220e1bcb90900800000000000000
+      internalID: 651259093287318275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c61d1f3466fc60800000000000000
+      internalID: 7851573222600788436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966220262ccdbc7a0800000000000000
+      internalID: -6355743721677248919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f646d64a4c1d7690800000000000000
+      internalID: -7602889490589923594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e94a7fe1b11835a0800000000000000
+      internalID: -6541459002830992925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b954fc1c4cbf0100800000000000000
+      internalID: 76486753777899960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f398bf10af775cbe0800000000000000
+      internalID: -1457626988725696193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d495e68538281aa20800000000000000
+      internalID: 3071879921479342413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00bb31945107bd0800000000000000
+      internalID: -2634582378403921682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a2c9b296421f0f0800000000000000
+      internalID: -1085046001097758069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35bea9f70eea8060800000000000000
+      internalID: 6956634292448310588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70299191f9802cf70800000000000000
+      internalID: 9205930067712643591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a07cf4a0a823f0800000000000000
+      internalID: -925313092954314820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111562d1f55a0050800000000000000
+      internalID: 5767516769906659610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bd1faed8cb07e70800000000000000
+      internalID: 9110989363888642903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bbd035dec0dd400800000000000000
+      internalID: 350450559444958019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5b34fa5d1ecdb80800000000000000
+      internalID: -8368565699676490243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56119fd70c4bc3f60800000000000000
+      internalID: 8015480175652835685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb4f08ed36e7aa0800000000000000
+      internalID: -6161377432898847050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15a276ea8e668a0800000000000000
+      internalID: -6312101991960391179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23039e8f3678580800000000000000
+      internalID: -8824975024093908261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4126d17522e8710800000000000000
+      internalID: 1697331867115721893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7da218f3932e50800000000000000
+      internalID: 6783428157424631720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918d9854748153d0800000000000000
+      internalID: -3219646623355403875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39c6c00f50d59660800000000000000
+      internalID: 7392043469852035391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33cddba014ac850800000000000000
+      internalID: 6397997735024014247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f161cb467baffe0800000000000000
+      internalID: -1154408711186931875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c46f5e711f3cfe0800000000000000
+      internalID: -1169826393241531337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f6b1baa98fe4e0800000000000000
+      internalID: -1950188747409131604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cda87925ab3ada0800000000000000
+      internalID: -5934695020051637139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b233c29abc42f28b0800000000000000
+      internalID: -5174876989690203349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed29ef0d3b3a910800000000000000
+      internalID: 1847517982357642987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f994da71e5daf90800000000000000
+      internalID: -6940787994923524291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machinegun_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81702cd0f48707650800000000000000
+      internalID: 6228610565581965080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Machinegun_0: -5871672129048537266
+      Machinegun_1: 6093317697984682371
+      Machinegun_10: -4998114034675042731
+      Machinegun_11: 8856623279611670937
+      Machinegun_12: 6462370419411399716
+      Machinegun_13: -7131378402135776310
+      Machinegun_14: 6430572792938183477
+      Machinegun_15: -3649988365604108555
+      Machinegun_16: -776529591848497520
+      Machinegun_17: 5942287194541538920
+      Machinegun_18: 6901264455312562845
+      Machinegun_19: -4369876002316235344
+      Machinegun_2: 2454370433484685692
+      Machinegun_20: -1397121699371285960
+      Machinegun_21: 1585416630791866032
+      Machinegun_22: 651259093287318275
+      Machinegun_23: 7851573222600788436
+      Machinegun_24: -6355743721677248919
+      Machinegun_25: -7602889490589923594
+      Machinegun_26: -6541459002830992925
+      Machinegun_27: 76486753777899960
+      Machinegun_28: -1457626988725696193
+      Machinegun_29: 3071879921479342413
+      Machinegun_3: 2120555699212819146
+      Machinegun_30: -2634582378403921682
+      Machinegun_31: -1085046001097758069
+      Machinegun_32: 6956634292448310588
+      Machinegun_33: 9205930067712643591
+      Machinegun_34: -925313092954314820
+      Machinegun_35: 5767516769906659610
+      Machinegun_36: 9110989363888642903
+      Machinegun_37: 350450559444958019
+      Machinegun_38: -8368565699676490243
+      Machinegun_39: 8015480175652835685
+      Machinegun_4: 1941452496504939703
+      Machinegun_40: -6161377432898847050
+      Machinegun_41: -6312101991960391179
+      Machinegun_42: -8824975024093908261
+      Machinegun_43: 1697331867115721893
+      Machinegun_44: 6783428157424631720
+      Machinegun_45: -3219646623355403875
+      Machinegun_46: 7392043469852035391
+      Machinegun_47: 6397997735024014247
+      Machinegun_48: -1154408711186931875
+      Machinegun_49: -1169826393241531337
+      Machinegun_5: -3053412504326114665
+      Machinegun_50: -1950188747409131604
+      Machinegun_51: -5934695020051637139
+      Machinegun_52: -5174876989690203349
+      Machinegun_53: 1847517982357642987
+      Machinegun_54: -6940787994923524291
+      Machinegun_55: 6228610565581965080
+      Machinegun_6: 172373432022664046
+      Machinegun_7: 4082347142313063652
+      Machinegun_8: 5640447059630119729
+      Machinegun_9: 2961905131117692845
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

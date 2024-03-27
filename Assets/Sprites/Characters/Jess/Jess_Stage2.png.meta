@@ -1,0 +1,1839 @@
+fileFormatVersion: 2
+guid: f8f2347102f6bb6478e76edacbbb49e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176080875125177572
+    second: Jess Stage 0_0
+  - first:
+      213: -7165814988041813713
+    second: Jess Stage 0_1
+  - first:
+      213: -4826156039398427861
+    second: Jess Stage 0_2
+  - first:
+      213: 5296059013120683407
+    second: Jess Stage 0_3
+  - first:
+      213: 321175167113412528
+    second: Jess Stage 0_4
+  - first:
+      213: 6773964402811509675
+    second: Jess Stage 0_5
+  - first:
+      213: -7169273979473227451
+    second: Jess Stage 0_6
+  - first:
+      213: -8438405989729047745
+    second: Jess Stage 0_7
+  - first:
+      213: -3929375155795278839
+    second: Jess Stage 0_8
+  - first:
+      213: -7742174505995280573
+    second: Jess Stage 0_9
+  - first:
+      213: -8863832334035005032
+    second: Jess Stage 0_10
+  - first:
+      213: 7315949049878339738
+    second: Jess Stage 0_11
+  - first:
+      213: 1839025899147521655
+    second: Jess Stage 0_12
+  - first:
+      213: 8262231508408491480
+    second: Jess Stage 0_13
+  - first:
+      213: -346551639221395201
+    second: Jess Stage 0_14
+  - first:
+      213: 3399365852376281818
+    second: Jess Stage 0_15
+  - first:
+      213: 2418318063705307040
+    second: Jess Stage 0_16
+  - first:
+      213: 3950488515506563562
+    second: Jess Stage 0_17
+  - first:
+      213: -1535655560238818176
+    second: Jess Stage 0_18
+  - first:
+      213: 6020161646950574346
+    second: Jess Stage 0_19
+  - first:
+      213: -4142860311159001743
+    second: Jess Stage 0_20
+  - first:
+      213: 7251240506114336026
+    second: Jess Stage 0_21
+  - first:
+      213: -6248092745877625627
+    second: Jess Stage 0_22
+  - first:
+      213: 6026563246988688070
+    second: Jess Stage 0_23
+  - first:
+      213: -1739700107878893732
+    second: Jess Stage 0_24
+  - first:
+      213: 3577310046386632310
+    second: Jess Stage 0_25
+  - first:
+      213: 2874443258673686382
+    second: Jess Stage 0_26
+  - first:
+      213: -8087306201938797411
+    second: Jess Stage 0_27
+  - first:
+      213: 2516916414465387060
+    second: Jess Stage 0_28
+  - first:
+      213: -5926469212009638035
+    second: Jess Stage 0_29
+  - first:
+      213: -1995738579642845817
+    second: Jess Stage 0_30
+  - first:
+      213: 7114101358550001515
+    second: Jess Stage 0_31
+  - first:
+      213: 2356397948094022525
+    second: Jess Stage 0_32
+  - first:
+      213: 3078262274163318636
+    second: Jess Stage 0_33
+  - first:
+      213: 2561351609756512464
+    second: Jess Stage 0_34
+  - first:
+      213: 7750988454290759187
+    second: Jess Stage 0_35
+  - first:
+      213: -8800061173284283003
+    second: Jess Stage 0_36
+  - first:
+      213: -3352649962450214307
+    second: Jess Stage 0_37
+  - first:
+      213: 273929252145571027
+    second: Jess Stage 0_38
+  - first:
+      213: 8929654419132925757
+    second: Jess Stage 0_39
+  - first:
+      213: -3278725296085504782
+    second: Jess Stage 0_40
+  - first:
+      213: 217069800470286344
+    second: Jess Stage 0_41
+  - first:
+      213: 600551357283525945
+    second: Jess Stage 0_42
+  - first:
+      213: 6238193675185055080
+    second: Jess Stage 0_43
+  - first:
+      213: -4304765618651733344
+    second: Jess Stage 0_44
+  - first:
+      213: 1269133200474365241
+    second: Jess Stage 0_45
+  - first:
+      213: 4222241056180790742
+    second: Jess Stage 0_46
+  - first:
+      213: -7640294999599598879
+    second: Jess Stage 0_47
+  - first:
+      213: -3738601938248103212
+    second: Jess Stage 0_48
+  - first:
+      213: -7202056343659398020
+    second: Jess Stage 0_49
+  - first:
+      213: 1636289520903283368
+    second: Jess Stage 0_50
+  - first:
+      213: 2760068723595712054
+    second: Jess Stage 0_51
+  - first:
+      213: -1059070954746001838
+    second: Jess Stage 0_52
+  - first:
+      213: -6753310263245286657
+    second: Jess Stage 0_53
+  - first:
+      213: -9183895931666378743
+    second: Jess Stage 0_54
+  - first:
+      213: 6788206332563458445
+    second: Jess Stage 0_55
+  - first:
+      213: -6279835533897974761
+    second: Jess Stage 0_56
+  - first:
+      213: 1270824399457653212
+    second: Jess Stage 0_57
+  - first:
+      213: -6828099487622466919
+    second: Jess Stage 0_58
+  - first:
+      213: -3550400613738873579
+    second: Jess Stage 0_59
+  - first:
+      213: -989189740355004396
+    second: Jess Stage 2_0
+  - first:
+      213: -7759340851871978859
+    second: Jess Stage 2_1
+  - first:
+      213: 4172715759569340659
+    second: Jess Stage 2_2
+  - first:
+      213: 4094687180152194295
+    second: Jess Stage 2_3
+  - first:
+      213: -7699709740528097911
+    second: Jess Stage 2_4
+  - first:
+      213: 6587997812710281686
+    second: Jess Stage 2_5
+  - first:
+      213: 1307445297451861610
+    second: Jess Stage 2_6
+  - first:
+      213: -3818396780180293039
+    second: Jess Stage 2_7
+  - first:
+      213: -8092720341476360563
+    second: Jess Stage 2_8
+  - first:
+      213: 6250144785822017552
+    second: Jess Stage 2_9
+  - first:
+      213: 4733343686888685012
+    second: Jess Stage 2_10
+  - first:
+      213: 292565267831489410
+    second: Jess Stage 2_11
+  - first:
+      213: -7105684996129679680
+    second: Jess Stage 2_12
+  - first:
+      213: -8035008082103702461
+    second: Jess Stage 2_13
+  - first:
+      213: 3096555606344630131
+    second: Jess Stage 2_14
+  - first:
+      213: -3181757778788756020
+    second: Jess Stage 2_15
+  - first:
+      213: 3670301570940946127
+    second: Jess Stage 2_16
+  - first:
+      213: -989823063077881177
+    second: Jess Stage 2_17
+  - first:
+      213: 6911711784009460173
+    second: Jess Stage 2_18
+  - first:
+      213: -7385924074112274293
+    second: Jess Stage 2_19
+  - first:
+      213: -7715813967245682344
+    second: Jess Stage 2_20
+  - first:
+      213: 5502391074371296508
+    second: Jess Stage 2_21
+  - first:
+      213: -7375526547259285787
+    second: Jess Stage 2_22
+  - first:
+      213: 5379504741374356148
+    second: Jess Stage 2_23
+  - first:
+      213: -4757436417272904651
+    second: Jess Stage 2_24
+  - first:
+      213: -2017536842367803016
+    second: Jess Stage 2_25
+  - first:
+      213: 3372461540656840838
+    second: Jess Stage 2_26
+  - first:
+      213: -7974107946202653251
+    second: Jess Stage 2_27
+  - first:
+      213: -6922619672681261207
+    second: Jess Stage 2_28
+  - first:
+      213: -6168686011251604328
+    second: Jess Stage 2_29
+  - first:
+      213: -1919329526238476000
+    second: Jess Stage 2_30
+  - first:
+      213: -368520432217784856
+    second: Jess Stage 2_31
+  - first:
+      213: 508414487254445690
+    second: Jess Stage 2_32
+  - first:
+      213: 1214014430428494428
+    second: Jess Stage 2_33
+  - first:
+      213: -9096128582431138411
+    second: Jess Stage 2_34
+  - first:
+      213: -6777500538989444281
+    second: Jess Stage 2_35
+  - first:
+      213: -6198712421935136556
+    second: Jess Stage 2_36
+  - first:
+      213: 413570323595896796
+    second: Jess Stage 2_37
+  - first:
+      213: 6059081208028546980
+    second: Jess Stage 2_38
+  - first:
+      213: -8211610376418334148
+    second: Jess Stage 2_39
+  - first:
+      213: -6534112087218434095
+    second: Jess Stage 2_40
+  - first:
+      213: -5178415768727624810
+    second: Jess Stage 2_41
+  - first:
+      213: -2732673812345755834
+    second: Jess Stage 2_42
+  - first:
+      213: -7967914353910595366
+    second: Jess Stage 2_43
+  - first:
+      213: 7956810785938751881
+    second: Jess Stage 2_44
+  - first:
+      213: -6887428006159219279
+    second: Jess Stage 2_45
+  - first:
+      213: -2992781973375232010
+    second: Jess Stage 2_46
+  - first:
+      213: -438263140507457115
+    second: Jess Stage 2_47
+  - first:
+      213: 8781260768146001468
+    second: Jess Stage 2_48
+  - first:
+      213: 3940577079633724326
+    second: Jess Stage 2_49
+  - first:
+      213: 6552807037039754581
+    second: Jess Stage 2_50
+  - first:
+      213: -2233815138986191578
+    second: Jess Stage 2_51
+  - first:
+      213: 8987628911945224569
+    second: Jess Stage 2_52
+  - first:
+      213: -8886564516029481554
+    second: Jess Stage 2_53
+  - first:
+      213: 7995591469531216262
+    second: Jess Stage 2_54
+  - first:
+      213: -1539674494261611215
+    second: Jess Stage 2_55
+  - first:
+      213: -4619809015188815760
+    second: Jess Stage 2_56
+  - first:
+      213: 6299770771281311909
+    second: Jess Stage 2_57
+  - first:
+      213: -4034931255255710705
+    second: Jess Stage 2_58
+  - first:
+      213: 5375043510229962768
+    second: Jess Stage 2_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jess Stage 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ddae0c21b542f0800000000000000
+      internalID: -989189740355004396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6ef02b98415490800000000000000
+      internalID: -7759340851871978859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f80ec510e678e930800000000000000
+      internalID: 4172715759569340659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44157bb4043d830800000000000000
+      internalID: 4094687180152194295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985253a29c2252590800000000000000
+      internalID: -7699709740528097911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d195af1b154d6b50800000000000000
+      internalID: 6587997812710281686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668fd5229af42210800000000000000
+      internalID: 1307445297451861610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15abbd1fb54520bc0800000000000000
+      internalID: -3818396780180293039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e39bbf9b1e0bf80800000000000000
+      internalID: -8092720341476360563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186ea96199fcb650800000000000000
+      internalID: 6250144785822017552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd76d0410730b140800000000000000
+      internalID: 4733343686888685012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28386be9f866f0400800000000000000
+      internalID: 292565267831489410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c61edfb429836d90800000000000000
+      internalID: -7105684996129679680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce0da78baed7090800000000000000
+      internalID: -8035008082103702461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f7a6feaec29fa20800000000000000
+      internalID: 3096555606344630131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d5f9682028d3d0800000000000000
+      internalID: -3181757778788756020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64e7a25d78fe230800000000000000
+      internalID: 3670301570940946127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf0ce1b217342f0800000000000000
+      internalID: -989823063077881177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9e3cb6f355bef50800000000000000
+      internalID: 6911711784009460173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803888df2def7990800000000000000
+      internalID: -7385924074112274293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d251b31cebe490800000000000000
+      internalID: -7715813967245682344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5e2b778b6c5c40800000000000000
+      internalID: 5502391074371296508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9527beadd4a990800000000000000
+      internalID: -7375526547259285787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae5297f07d7aa40800000000000000
+      internalID: 5379504741374356148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53401f2d8c03afdb0800000000000000
+      internalID: -4757436417272904651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87167656ee44004e0800000000000000
+      internalID: -2017536842367803016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680848537e36dce20800000000000000
+      internalID: 3372461540656840838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd98f15217465190800000000000000
+      internalID: -7974107946202653251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d3b6d51aedef90800000000000000
+      internalID: -6922619672681261207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8944d6081cc646aa0800000000000000
+      internalID: -6168686011251604328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02903a507fb2d55e0800000000000000
+      internalID: -1919329526238476000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7f219e90c2eaf0800000000000000
+      internalID: -368520432217784856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea67f48404e0700800000000000000
+      internalID: 508414487254445690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a73ed31bb09d010800000000000000
+      internalID: 1214014430428494428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d1ae46f3f04c180800000000000000
+      internalID: -9096128582431138411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74304842b2b71f1a0800000000000000
+      internalID: -6777500538989444281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d041c9f4efb9f9a0800000000000000
+      internalID: -6198712421935136556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a393a40c4db500800000000000000
+      internalID: 413570323595896796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a749cd914e261450800000000000000
+      internalID: 6059081208028546980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6caf9edf7a0e80800000000000000
+      internalID: -8211610376418334148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df42c60dab2255a0800000000000000
+      internalID: -6534112087218434095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69365b57b429228b0800000000000000
+      internalID: -5178415768727624810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476e1065a7931ad0800000000000000
+      internalID: -2732673812345755834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad04c666c184c6190800000000000000
+      internalID: -7967914353910595366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98140e8b0454c6e60800000000000000
+      internalID: 7956810785938751881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58dc438b0fa60a0800000000000000
+      internalID: -6887428006159219279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d6c2d6a08776d0800000000000000
+      internalID: -2992781973375232010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e7e7eef9fae9f0800000000000000
+      internalID: -438263140507457115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8a6db42e4dd970800000000000000
+      internalID: 8781260768146001468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34d91d9fdbfa630800000000000000
+      internalID: 3940577079633724326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d3f6c284f30fa50800000000000000
+      internalID: 6552807037039754581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62596d267f4eff0e0800000000000000
+      internalID: -2233815138986191578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971968d70e87abc70800000000000000
+      internalID: 8987628911945224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb87cd7a49ca480800000000000000
+      internalID: -8886564516029481554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6893d8e341c06fe60800000000000000
+      internalID: 7995591469531216262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135becb743af1aae0800000000000000
+      internalID: -1539674494261611215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070068f6d2423efb0800000000000000
+      internalID: -4619809015188815760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a87c9c83284d6750800000000000000
+      internalID: 6299770771281311909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04cc5db66b0108c0800000000000000
+      internalID: -4034931255255710705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage 2_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109687289df79a40800000000000000
+      internalID: 5375043510229962768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jess Stage 2_0: -989189740355004396
+      Jess Stage 2_1: -7759340851871978859
+      Jess Stage 2_10: 4733343686888685012
+      Jess Stage 2_11: 292565267831489410
+      Jess Stage 2_12: -7105684996129679680
+      Jess Stage 2_13: -8035008082103702461
+      Jess Stage 2_14: 3096555606344630131
+      Jess Stage 2_15: -3181757778788756020
+      Jess Stage 2_16: 3670301570940946127
+      Jess Stage 2_17: -989823063077881177
+      Jess Stage 2_18: 6911711784009460173
+      Jess Stage 2_19: -7385924074112274293
+      Jess Stage 2_2: 4172715759569340659
+      Jess Stage 2_20: -7715813967245682344
+      Jess Stage 2_21: 5502391074371296508
+      Jess Stage 2_22: -7375526547259285787
+      Jess Stage 2_23: 5379504741374356148
+      Jess Stage 2_24: -4757436417272904651
+      Jess Stage 2_25: -2017536842367803016
+      Jess Stage 2_26: 3372461540656840838
+      Jess Stage 2_27: -7974107946202653251
+      Jess Stage 2_28: -6922619672681261207
+      Jess Stage 2_29: -6168686011251604328
+      Jess Stage 2_3: 4094687180152194295
+      Jess Stage 2_30: -1919329526238476000
+      Jess Stage 2_31: -368520432217784856
+      Jess Stage 2_32: 508414487254445690
+      Jess Stage 2_33: 1214014430428494428
+      Jess Stage 2_34: -9096128582431138411
+      Jess Stage 2_35: -6777500538989444281
+      Jess Stage 2_36: -6198712421935136556
+      Jess Stage 2_37: 413570323595896796
+      Jess Stage 2_38: 6059081208028546980
+      Jess Stage 2_39: -8211610376418334148
+      Jess Stage 2_4: -7699709740528097911
+      Jess Stage 2_40: -6534112087218434095
+      Jess Stage 2_41: -5178415768727624810
+      Jess Stage 2_42: -2732673812345755834
+      Jess Stage 2_43: -7967914353910595366
+      Jess Stage 2_44: 7956810785938751881
+      Jess Stage 2_45: -6887428006159219279
+      Jess Stage 2_46: -2992781973375232010
+      Jess Stage 2_47: -438263140507457115
+      Jess Stage 2_48: 8781260768146001468
+      Jess Stage 2_49: 3940577079633724326
+      Jess Stage 2_5: 6587997812710281686
+      Jess Stage 2_50: 6552807037039754581
+      Jess Stage 2_51: -2233815138986191578
+      Jess Stage 2_52: 8987628911945224569
+      Jess Stage 2_53: -8886564516029481554
+      Jess Stage 2_54: 7995591469531216262
+      Jess Stage 2_55: -1539674494261611215
+      Jess Stage 2_56: -4619809015188815760
+      Jess Stage 2_57: 6299770771281311909
+      Jess Stage 2_58: -4034931255255710705
+      Jess Stage 2_59: 5375043510229962768
+      Jess Stage 2_6: 1307445297451861610
+      Jess Stage 2_7: -3818396780180293039
+      Jess Stage 2_8: -8092720341476360563
+      Jess Stage 2_9: 6250144785822017552
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

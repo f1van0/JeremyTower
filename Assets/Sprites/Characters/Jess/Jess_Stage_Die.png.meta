@@ -1,0 +1,3314 @@
+fileFormatVersion: 2
+guid: b51cacebaf008d74b8b111ca17e03749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176080875125177572
+    second: Jess Stage 0_0
+  - first:
+      213: -7165814988041813713
+    second: Jess Stage 0_1
+  - first:
+      213: -4826156039398427861
+    second: Jess Stage 0_2
+  - first:
+      213: 5296059013120683407
+    second: Jess Stage 0_3
+  - first:
+      213: 321175167113412528
+    second: Jess Stage 0_4
+  - first:
+      213: 6773964402811509675
+    second: Jess Stage 0_5
+  - first:
+      213: -7169273979473227451
+    second: Jess Stage 0_6
+  - first:
+      213: -8438405989729047745
+    second: Jess Stage 0_7
+  - first:
+      213: -3929375155795278839
+    second: Jess Stage 0_8
+  - first:
+      213: -7742174505995280573
+    second: Jess Stage 0_9
+  - first:
+      213: -8863832334035005032
+    second: Jess Stage 0_10
+  - first:
+      213: 7315949049878339738
+    second: Jess Stage 0_11
+  - first:
+      213: 1839025899147521655
+    second: Jess Stage 0_12
+  - first:
+      213: 8262231508408491480
+    second: Jess Stage 0_13
+  - first:
+      213: -346551639221395201
+    second: Jess Stage 0_14
+  - first:
+      213: 3399365852376281818
+    second: Jess Stage 0_15
+  - first:
+      213: 2418318063705307040
+    second: Jess Stage 0_16
+  - first:
+      213: 3950488515506563562
+    second: Jess Stage 0_17
+  - first:
+      213: -1535655560238818176
+    second: Jess Stage 0_18
+  - first:
+      213: 6020161646950574346
+    second: Jess Stage 0_19
+  - first:
+      213: -4142860311159001743
+    second: Jess Stage 0_20
+  - first:
+      213: 7251240506114336026
+    second: Jess Stage 0_21
+  - first:
+      213: -6248092745877625627
+    second: Jess Stage 0_22
+  - first:
+      213: 6026563246988688070
+    second: Jess Stage 0_23
+  - first:
+      213: -1739700107878893732
+    second: Jess Stage 0_24
+  - first:
+      213: 3577310046386632310
+    second: Jess Stage 0_25
+  - first:
+      213: 2874443258673686382
+    second: Jess Stage 0_26
+  - first:
+      213: -8087306201938797411
+    second: Jess Stage 0_27
+  - first:
+      213: 2516916414465387060
+    second: Jess Stage 0_28
+  - first:
+      213: -5926469212009638035
+    second: Jess Stage 0_29
+  - first:
+      213: -1995738579642845817
+    second: Jess Stage 0_30
+  - first:
+      213: 7114101358550001515
+    second: Jess Stage 0_31
+  - first:
+      213: 2356397948094022525
+    second: Jess Stage 0_32
+  - first:
+      213: 3078262274163318636
+    second: Jess Stage 0_33
+  - first:
+      213: 2561351609756512464
+    second: Jess Stage 0_34
+  - first:
+      213: 7750988454290759187
+    second: Jess Stage 0_35
+  - first:
+      213: -8800061173284283003
+    second: Jess Stage 0_36
+  - first:
+      213: -3352649962450214307
+    second: Jess Stage 0_37
+  - first:
+      213: 273929252145571027
+    second: Jess Stage 0_38
+  - first:
+      213: 8929654419132925757
+    second: Jess Stage 0_39
+  - first:
+      213: -3278725296085504782
+    second: Jess Stage 0_40
+  - first:
+      213: 217069800470286344
+    second: Jess Stage 0_41
+  - first:
+      213: 600551357283525945
+    second: Jess Stage 0_42
+  - first:
+      213: 6238193675185055080
+    second: Jess Stage 0_43
+  - first:
+      213: -4304765618651733344
+    second: Jess Stage 0_44
+  - first:
+      213: 1269133200474365241
+    second: Jess Stage 0_45
+  - first:
+      213: 4222241056180790742
+    second: Jess Stage 0_46
+  - first:
+      213: -7640294999599598879
+    second: Jess Stage 0_47
+  - first:
+      213: -3738601938248103212
+    second: Jess Stage 0_48
+  - first:
+      213: -7202056343659398020
+    second: Jess Stage 0_49
+  - first:
+      213: 1636289520903283368
+    second: Jess Stage 0_50
+  - first:
+      213: 2760068723595712054
+    second: Jess Stage 0_51
+  - first:
+      213: -1059070954746001838
+    second: Jess Stage 0_52
+  - first:
+      213: -6753310263245286657
+    second: Jess Stage 0_53
+  - first:
+      213: -9183895931666378743
+    second: Jess Stage 0_54
+  - first:
+      213: 6788206332563458445
+    second: Jess Stage 0_55
+  - first:
+      213: -6279835533897974761
+    second: Jess Stage 0_56
+  - first:
+      213: 1270824399457653212
+    second: Jess Stage 0_57
+  - first:
+      213: -6828099487622466919
+    second: Jess Stage 0_58
+  - first:
+      213: -3550400613738873579
+    second: Jess Stage 0_59
+  - first:
+      213: -6331864150662833312
+    second: Jess Stage Die_0
+  - first:
+      213: 3434075368042155907
+    second: Jess Stage Die_1
+  - first:
+      213: 2085560890395978327
+    second: Jess Stage Die_2
+  - first:
+      213: 6740965174210743523
+    second: Jess Stage Die_3
+  - first:
+      213: 1982417972551264907
+    second: Jess Stage Die_4
+  - first:
+      213: 6803489045929578028
+    second: Jess Stage Die_5
+  - first:
+      213: -3734200524928406976
+    second: Jess Stage Die_6
+  - first:
+      213: -770627092855187114
+    second: Jess Stage Die_7
+  - first:
+      213: 7309566216487865033
+    second: Jess Stage Die_8
+  - first:
+      213: 8789028662027685190
+    second: Jess Stage Die_9
+  - first:
+      213: 4560590780162365155
+    second: Jess Stage Die_10
+  - first:
+      213: -229547644972805856
+    second: Jess Stage Die_11
+  - first:
+      213: 1755253450965770176
+    second: Jess Stage Die_12
+  - first:
+      213: 8664220286083818581
+    second: Jess Stage Die_13
+  - first:
+      213: 6482576206106542785
+    second: Jess Stage Die_14
+  - first:
+      213: -5013794492670196327
+    second: Jess Stage Die_15
+  - first:
+      213: -3915426470584047862
+    second: Jess Stage Die_16
+  - first:
+      213: 466004654649095986
+    second: Jess Stage Die_17
+  - first:
+      213: -7048718802342050746
+    second: Jess Stage Die_18
+  - first:
+      213: -7106573008465098330
+    second: Jess Stage Die_19
+  - first:
+      213: 707618663036867220
+    second: Jess Stage Die_20
+  - first:
+      213: -1141011790695699053
+    second: Jess Stage Die_21
+  - first:
+      213: 4895039412799145172
+    second: Jess Stage Die_22
+  - first:
+      213: -7093709935855730810
+    second: Jess Stage Die_23
+  - first:
+      213: -7871373688232481950
+    second: Jess Stage Die_24
+  - first:
+      213: 1974471171295507714
+    second: Jess Stage Die_25
+  - first:
+      213: 9090790056194605881
+    second: Jess Stage Die_26
+  - first:
+      213: -935684818644481684
+    second: Jess Stage Die_27
+  - first:
+      213: 4230727675575585385
+    second: Jess Stage Die_28
+  - first:
+      213: -829003154553937056
+    second: Jess Stage Die_29
+  - first:
+      213: -8782066951309996629
+    second: Jess Stage Die_30
+  - first:
+      213: -6661214937276458733
+    second: Jess Stage Die_31
+  - first:
+      213: -3300006827976032669
+    second: Jess Stage Die_32
+  - first:
+      213: -395260552653926331
+    second: Jess Stage Die_33
+  - first:
+      213: 7947511464701219444
+    second: Jess Stage Die_34
+  - first:
+      213: 7897953702525683199
+    second: Jess Stage Die_35
+  - first:
+      213: -4622020157316883164
+    second: Jess Stage Die_36
+  - first:
+      213: 1502198743070321506
+    second: Jess Stage Die_37
+  - first:
+      213: -5068664517173002133
+    second: Jess Stage Die_38
+  - first:
+      213: 6524850810824039299
+    second: Jess Stage Die_39
+  - first:
+      213: -447526810524033779
+    second: Jess Stage Die_40
+  - first:
+      213: -1415343832469764474
+    second: Jess Stage Die_41
+  - first:
+      213: 4244255020749310045
+    second: Jess Stage Die_42
+  - first:
+      213: -580262534510798488
+    second: Jess Stage Die_43
+  - first:
+      213: 4101468406153410827
+    second: Jess Stage Die_44
+  - first:
+      213: 1498578971533395749
+    second: Jess Stage Die_45
+  - first:
+      213: 5630752255334003704
+    second: Jess Stage Die_46
+  - first:
+      213: 59354151136693010
+    second: Jess Stage Die_47
+  - first:
+      213: -7937191459844291593
+    second: Jess Stage Die_48
+  - first:
+      213: -660158249233795804
+    second: Jess Stage Die_49
+  - first:
+      213: -6285741298134636877
+    second: Jess Stage Die_50
+  - first:
+      213: -7402615182674414814
+    second: Jess Stage Die_51
+  - first:
+      213: 3852145736108324134
+    second: Jess Stage Die_52
+  - first:
+      213: 1105980495972396944
+    second: Jess Stage Die_53
+  - first:
+      213: -7443914900007625539
+    second: Jess Stage Die_54
+  - first:
+      213: -2976763437328011541
+    second: Jess Stage Die_55
+  - first:
+      213: 4637336036395825352
+    second: Jess Stage Die_56
+  - first:
+      213: -1808403168636787545
+    second: Jess Stage Die_57
+  - first:
+      213: -5979769724306907197
+    second: Jess Stage Die_58
+  - first:
+      213: 4150146659959284564
+    second: Jess Stage Die_59
+  - first:
+      213: 7356311328973566446
+    second: Jess Stage Die_60
+  - first:
+      213: 9178313654488260706
+    second: Jess Stage Die_61
+  - first:
+      213: -7734646935694483186
+    second: Jess Stage Die_62
+  - first:
+      213: 710154317510967002
+    second: Jess Stage Die_63
+  - first:
+      213: 3804387424988950133
+    second: Jess Stage Die_64
+  - first:
+      213: 9057374810010999308
+    second: Jess Stage Die_65
+  - first:
+      213: -7832073942998024445
+    second: Jess Stage Die_66
+  - first:
+      213: -4799995077746887955
+    second: Jess Stage Die_67
+  - first:
+      213: -68399030914493463
+    second: Jess Stage Die_68
+  - first:
+      213: -1126434067547310494
+    second: Jess Stage Die_69
+  - first:
+      213: -7219349438368394135
+    second: Jess Stage Die_70
+  - first:
+      213: 3413825296355372797
+    second: Jess Stage Die_71
+  - first:
+      213: -5978491213741163894
+    second: Jess Stage Die_72
+  - first:
+      213: -222801203153075398
+    second: Jess Stage Die_73
+  - first:
+      213: -4836677364172432317
+    second: Jess Stage Die_74
+  - first:
+      213: 124835265427624843
+    second: Jess Stage Die_75
+  - first:
+      213: 6104875181998225173
+    second: Jess Stage Die_76
+  - first:
+      213: 7762392605482542205
+    second: Jess Stage Die_77
+  - first:
+      213: -3495895618328453959
+    second: Jess Stage Die_78
+  - first:
+      213: 9195056117553839822
+    second: Jess Stage Die_79
+  - first:
+      213: -8747448424956294321
+    second: Jess Stage Die_80
+  - first:
+      213: -1218071748080095281
+    second: Jess Stage Die_81
+  - first:
+      213: 406385863149966110
+    second: Jess Stage Die_82
+  - first:
+      213: -203317396842878663
+    second: Jess Stage Die_83
+  - first:
+      213: 8150367928205677102
+    second: Jess Stage Die_84
+  - first:
+      213: -6638656624534244754
+    second: Jess Stage Die_85
+  - first:
+      213: -5036862898050453723
+    second: Jess Stage Die_86
+  - first:
+      213: -4374390179628659981
+    second: Jess Stage Die_87
+  - first:
+      213: 5367373263133263956
+    second: Jess Stage Die_88
+  - first:
+      213: 279193695389992214
+    second: Jess Stage Die_89
+  - first:
+      213: -5885453213077505603
+    second: Jess Stage Die_90
+  - first:
+      213: 1174867297094064873
+    second: Jess Stage Die_91
+  - first:
+      213: 6023598936099139503
+    second: Jess Stage Die_92
+  - first:
+      213: -7075164271131332457
+    second: Jess Stage Die_93
+  - first:
+      213: 5872133619402834993
+    second: Jess Stage Die_94
+  - first:
+      213: 1354559201015587811
+    second: Jess Stage Die_95
+  - first:
+      213: 3329362294467216208
+    second: Jess Stage Die_96
+  - first:
+      213: 1595566588807596522
+    second: Jess Stage Die_97
+  - first:
+      213: -732498749614458680
+    second: Jess Stage Die_98
+  - first:
+      213: 7201321081478823866
+    second: Jess Stage Die_99
+  - first:
+      213: 5023067363432534931
+    second: Jess Stage Die_100
+  - first:
+      213: -6714002035795326830
+    second: Jess Stage Die_101
+  - first:
+      213: 6303251577551464007
+    second: Jess Stage Die_102
+  - first:
+      213: 1217781654593648662
+    second: Jess Stage Die_103
+  - first:
+      213: 4869197855081279487
+    second: Jess Stage Die_104
+  - first:
+      213: 2443178048695615598
+    second: Jess Stage Die_105
+  - first:
+      213: 2771297711428400956
+    second: Jess Stage Die_106
+  - first:
+      213: -3376259216177324971
+    second: Jess Stage Die_107
+  - first:
+      213: 5511791626050346875
+    second: Jess Stage Die_108
+  - first:
+      213: -3239854166174090523
+    second: Jess Stage Die_109
+  - first:
+      213: -4151542698305301542
+    second: Jess Stage Die_110
+  - first:
+      213: -7029014774173549310
+    second: Jess Stage Die_111
+  - first:
+      213: 8188981777356246207
+    second: Jess Stage Die_112
+  - first:
+      213: 4883755961762806393
+    second: Jess Stage Die_113
+  - first:
+      213: -29947338489986588
+    second: Jess Stage Die_114
+  - first:
+      213: -961601738897360664
+    second: Jess Stage Die_115
+  - first:
+      213: 5667600699312440458
+    second: Jess Stage Die_116
+  - first:
+      213: 8979118325049916947
+    second: Jess Stage Die_117
+  - first:
+      213: 7134504484905763921
+    second: Jess Stage Die_118
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jess Stage Die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b16b54a13b028a0800000000000000
+      internalID: -6331864150662833312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f421c4a5948af20800000000000000
+      internalID: 3434075368042155907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aef7d749661fc10800000000000000
+      internalID: 2085560890395978327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4c1c5c18bc8d50800000000000000
+      internalID: 6740965174210743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa44a84a6f28b10800000000000000
+      internalID: 1982417972551264907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec4e7ad39da6e50800000000000000
+      internalID: 6803489045929578028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa09f38647d2cc0800000000000000
+      internalID: -3734200524928406976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6591314fdbe2e45f0800000000000000
+      internalID: -770627092855187114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca84f30fbbc07560800000000000000
+      internalID: 7309566216487865033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d03e87007e8f970800000000000000
+      internalID: 8789028662027685190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6df79c6297a4f30800000000000000
+      internalID: 4560590780162365155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0215e5212ab70dcf0800000000000000
+      internalID: -229547644972805856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd793c6b9eb5810800000000000000
+      internalID: 1755253450965770176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55462c7f17e7d3870800000000000000
+      internalID: 8664220286083818581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2416a96bcb6f950800000000000000
+      internalID: 6482576206106542785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995459f197c6b6ab0800000000000000
+      internalID: -5013794492670196327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072dacae5c99a9c0800000000000000
+      internalID: -3915426470584047862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b900b3c4977600800000000000000
+      internalID: 466004654649095986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64409c0589bed2e90800000000000000
+      internalID: -7048718802342050746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90f044081606d90800000000000000
+      internalID: -7106573008465098330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492dfb6cc67f1d900800000000000000
+      internalID: 707618663036867220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dec0b52df4a20f0800000000000000
+      internalID: -1141011790695699053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d40e61396caee340800000000000000
+      internalID: 4895039412799145172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff8adb5641e8d90800000000000000
+      internalID: -7093709935855730810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26beb8ab55343c290800000000000000
+      internalID: -7871373688232481950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057150b11bb66b10800000000000000
+      internalID: 1974471171295507714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933022b1469f82e70800000000000000
+      internalID: 9090790056194605881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_27
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6948fa6d97c303f0800000000000000
+      internalID: -935684818644481684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ac814d76096ba30800000000000000
+      internalID: 4230727675575585385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063622fe50ace74f0800000000000000
+      internalID: -829003154553937056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad487d13a4df1680800000000000000
+      internalID: -8782066951309996629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_31
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195c13ae4c9e83a0800000000000000
+      internalID: -6661214937276458733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_32
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eff1e26450432d0800000000000000
+      internalID: -3300006827976032669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540965d1f90c38af0800000000000000
+      internalID: -395260552653926331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725cd5c19b3b4e60800000000000000
+      internalID: 7947511464701219444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_35
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5468b1c0b2b9d60800000000000000
+      internalID: 7897953702525683199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9e6ac7294bdfb0800000000000000
+      internalID: -4622020157316883164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26baebe3cc1e8d410800000000000000
+      internalID: 1502198743070321506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60c6400a7c78a9b0800000000000000
+      internalID: -5068664517173002133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b16970e3dec8a50800000000000000
+      internalID: 6524850810824039299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5047acb01ac9f0800000000000000
+      internalID: -447526810524033779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686899e7840bb5ce0800000000000000
+      internalID: -1415343832469764474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584eef447f96ea30800000000000000
+      internalID: 4244255020749310045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869140a9c4e72f7f0800000000000000
+      internalID: -580262534510798488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f24ee8c75be830800000000000000
+      internalID: 4101468406153410827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_45
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5274e1282a50cc410800000000000000
+      internalID: 1498578971533395749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b96dd753742e40800000000000000
+      internalID: 5630752255334003704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_47
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8276394ed2d000800000000000000
+      internalID: 59354151136693010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f387b99b6e69d190800000000000000
+      internalID: -7937191459844291593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_49
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42530eae195a6d6f0800000000000000
+      internalID: -660158249233795804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_50
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6aea6b79f84c8a0800000000000000
+      internalID: -6285741298134636877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_51
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22337cb46b0a44990800000000000000
+      internalID: -7402615182674414814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625b5cf2322957530800000000000000
+      internalID: 3852145736108324134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_53
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fe1feb66b395f00800000000000000
+      internalID: 1105980495972396944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcdec686d6e1b890800000000000000
+      internalID: -7443914900007625539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee61b1ec6960b6d0800000000000000
+      internalID: -2976763437328011541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8bd713e802b5040800000000000000
+      internalID: 4637336036395825352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a6b246e247e6e0800000000000000
+      internalID: -1808403168636787545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1d003e17930da0800000000000000
+      internalID: -5979769724306907197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a5a81668489930800000000000000
+      internalID: 4150146659959284564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b6a4ad2ed61660800000000000000
+      internalID: 7356311328973566446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_61
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260e3e4d3abef5f70800000000000000
+      internalID: 9178313654488260706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01edd6879309a490800000000000000
+      internalID: -7734646935694483186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_63
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade73f6d699fad900800000000000000
+      internalID: 710154317510967002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eed6ed436ebc430800000000000000
+      internalID: 3804387424988950133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_65
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad644d66242bd70800000000000000
+      internalID: 9057374810010999308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f7205be32ee4390800000000000000
+      internalID: -7832073942998024445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_67
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f54388edf26db0800000000000000
+      internalID: -4799995077746887955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_68
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e35c5b917ffc0ff0800000000000000
+      internalID: -68399030914493463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_69
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b1f40f2a1e50f0800000000000000
+      internalID: -1126434067547310494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_70
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d2a08fe7bfcb90800000000000000
+      internalID: -7219349438368394135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_71
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe21821508506f20800000000000000
+      internalID: 3413825296355372797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af920aae1280da0800000000000000
+      internalID: -5978491213741163894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3308867c7378ecf0800000000000000
+      internalID: -222801203153075398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5457209ba0ecb0800000000000000
+      internalID: -4836677364172432317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83514333018bb100800000000000000
+      internalID: 124835265427624843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5173a1d02afd8b450800000000000000
+      internalID: 6104875181998225173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e7e0a2fe89bb60800000000000000
+      internalID: 7762392605482542205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc10b905751c7fc0800000000000000
+      internalID: -3495895618328453959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece349842d66b9f70800000000000000
+      internalID: 9195056117553839822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_80
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0e63e002da9680800000000000000
+      internalID: -8747448424956294321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_81
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2fb0e23a881fe0800000000000000
+      internalID: -1218071748080095281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135bc61ac5c3a500800000000000000
+      internalID: 406385863149966110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_83
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e580a7ebad2df0800000000000000
+      internalID: -203317396842878663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_84
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229f6db27ceb1170800000000000000
+      internalID: 8150367928205677102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_85
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62b7dc19f0ced3a0800000000000000
+      internalID: -6638656624534244754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_86
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fab5371e7791ab0800000000000000
+      internalID: -5036862898050453723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_87
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac642ee4b0b43c0800000000000000
+      internalID: -4374390179628659981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ccf59b8dbc7a40800000000000000
+      internalID: 5367373263133263956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_89
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615cf3dcf25efd300800000000000000
+      internalID: 279193695389992214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db975543c7ba25ea0800000000000000
+      internalID: -5885453213077505603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead38df497fd4010800000000000000
+      internalID: 1174867297094064873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf2c97615f189350800000000000000
+      internalID: 6023598936099139503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907eabc497ffcd90800000000000000
+      internalID: -7075164271131332457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134822a3a620e7150800000000000000
+      internalID: 5872133619402834993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e365c3aa6c5cc210800000000000000
+      internalID: 1354559201015587811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534c4afd55443e20800000000000000
+      internalID: 3329362294467216208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cb5ddb57942610800000000000000
+      internalID: 1595566588807596522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ffc6a444a5d5f0800000000000000
+      internalID: -732498749614458680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb31f8e5b30f360800000000000000
+      internalID: 7201321081478823866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931148572585b540800000000000000
+      internalID: 5023067363432534931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2988b2388b213d2a0800000000000000
+      internalID: -6714002035795326830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74620e9e9e5a97750800000000000000
+      internalID: 6303251577551464007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ba0876fd66e010800000000000000
+      internalID: 1217781654593648662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_104
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa63da6add29340800000000000000
+      internalID: 4869197855081279487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_105
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c883ad79e7e120800000000000000
+      internalID: 2443178048695615598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_106
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37fa88e590a57620800000000000000
+      internalID: 2771297711428400956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_107
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9c1e812e1521d0800000000000000
+      internalID: -3376259216177324971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f14baf741dd7c40800000000000000
+      internalID: 5511791626050346875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eabf152dc9b903d0800000000000000
+      internalID: -3239854166174090523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad355a569e1c266c0800000000000000
+      internalID: -4151542698305301542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db960ed4ce37e90800000000000000
+      internalID: -7029014774173549310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc47771a8b15a170800000000000000
+      internalID: 8188981777356246207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_113
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a71960c2696c340800000000000000
+      internalID: 4883755961762806393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10657ed0b959ff0800000000000000
+      internalID: -29947338489986588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_115
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ff913054b7a2f0800000000000000
+      internalID: -961601738897360664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84064bcecc57ae40800000000000000
+      internalID: 5667600699312440458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_117
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31efcc01b8c3c9c70800000000000000
+      internalID: 8979118325049916947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jess Stage Die_118
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1544d3f570ad20360800000000000000
+      internalID: 7134504484905763921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jess Stage Die_0: -6331864150662833312
+      Jess Stage Die_1: 3434075368042155907
+      Jess Stage Die_10: 4560590780162365155
+      Jess Stage Die_100: 5023067363432534931
+      Jess Stage Die_101: -6714002035795326830
+      Jess Stage Die_102: 6303251577551464007
+      Jess Stage Die_103: 1217781654593648662
+      Jess Stage Die_104: 4869197855081279487
+      Jess Stage Die_105: 2443178048695615598
+      Jess Stage Die_106: 2771297711428400956
+      Jess Stage Die_107: -3376259216177324971
+      Jess Stage Die_108: 5511791626050346875
+      Jess Stage Die_109: -3239854166174090523
+      Jess Stage Die_11: -229547644972805856
+      Jess Stage Die_110: -4151542698305301542
+      Jess Stage Die_111: -7029014774173549310
+      Jess Stage Die_112: 8188981777356246207
+      Jess Stage Die_113: 4883755961762806393
+      Jess Stage Die_114: -29947338489986588
+      Jess Stage Die_115: -961601738897360664
+      Jess Stage Die_116: 5667600699312440458
+      Jess Stage Die_117: 8979118325049916947
+      Jess Stage Die_118: 7134504484905763921
+      Jess Stage Die_12: 1755253450965770176
+      Jess Stage Die_13: 8664220286083818581
+      Jess Stage Die_14: 6482576206106542785
+      Jess Stage Die_15: -5013794492670196327
+      Jess Stage Die_16: -3915426470584047862
+      Jess Stage Die_17: 466004654649095986
+      Jess Stage Die_18: -7048718802342050746
+      Jess Stage Die_19: -7106573008465098330
+      Jess Stage Die_2: 2085560890395978327
+      Jess Stage Die_20: 707618663036867220
+      Jess Stage Die_21: -1141011790695699053
+      Jess Stage Die_22: 4895039412799145172
+      Jess Stage Die_23: -7093709935855730810
+      Jess Stage Die_24: -7871373688232481950
+      Jess Stage Die_25: 1974471171295507714
+      Jess Stage Die_26: 9090790056194605881
+      Jess Stage Die_27: -935684818644481684
+      Jess Stage Die_28: 4230727675575585385
+      Jess Stage Die_29: -829003154553937056
+      Jess Stage Die_3: 6740965174210743523
+      Jess Stage Die_30: -8782066951309996629
+      Jess Stage Die_31: -6661214937276458733
+      Jess Stage Die_32: -3300006827976032669
+      Jess Stage Die_33: -395260552653926331
+      Jess Stage Die_34: 7947511464701219444
+      Jess Stage Die_35: 7897953702525683199
+      Jess Stage Die_36: -4622020157316883164
+      Jess Stage Die_37: 1502198743070321506
+      Jess Stage Die_38: -5068664517173002133
+      Jess Stage Die_39: 6524850810824039299
+      Jess Stage Die_4: 1982417972551264907
+      Jess Stage Die_40: -447526810524033779
+      Jess Stage Die_41: -1415343832469764474
+      Jess Stage Die_42: 4244255020749310045
+      Jess Stage Die_43: -580262534510798488
+      Jess Stage Die_44: 4101468406153410827
+      Jess Stage Die_45: 1498578971533395749
+      Jess Stage Die_46: 5630752255334003704
+      Jess Stage Die_47: 59354151136693010
+      Jess Stage Die_48: -7937191459844291593
+      Jess Stage Die_49: -660158249233795804
+      Jess Stage Die_5: 6803489045929578028
+      Jess Stage Die_50: -6285741298134636877
+      Jess Stage Die_51: -7402615182674414814
+      Jess Stage Die_52: 3852145736108324134
+      Jess Stage Die_53: 1105980495972396944
+      Jess Stage Die_54: -7443914900007625539
+      Jess Stage Die_55: -2976763437328011541
+      Jess Stage Die_56: 4637336036395825352
+      Jess Stage Die_57: -1808403168636787545
+      Jess Stage Die_58: -5979769724306907197
+      Jess Stage Die_59: 4150146659959284564
+      Jess Stage Die_6: -3734200524928406976
+      Jess Stage Die_60: 7356311328973566446
+      Jess Stage Die_61: 9178313654488260706
+      Jess Stage Die_62: -7734646935694483186
+      Jess Stage Die_63: 710154317510967002
+      Jess Stage Die_64: 3804387424988950133
+      Jess Stage Die_65: 9057374810010999308
+      Jess Stage Die_66: -7832073942998024445
+      Jess Stage Die_67: -4799995077746887955
+      Jess Stage Die_68: -68399030914493463
+      Jess Stage Die_69: -1126434067547310494
+      Jess Stage Die_7: -770627092855187114
+      Jess Stage Die_70: -7219349438368394135
+      Jess Stage Die_71: 3413825296355372797
+      Jess Stage Die_72: -5978491213741163894
+      Jess Stage Die_73: -222801203153075398
+      Jess Stage Die_74: -4836677364172432317
+      Jess Stage Die_75: 124835265427624843
+      Jess Stage Die_76: 6104875181998225173
+      Jess Stage Die_77: 7762392605482542205
+      Jess Stage Die_78: -3495895618328453959
+      Jess Stage Die_79: 9195056117553839822
+      Jess Stage Die_8: 7309566216487865033
+      Jess Stage Die_80: -8747448424956294321
+      Jess Stage Die_81: -1218071748080095281
+      Jess Stage Die_82: 406385863149966110
+      Jess Stage Die_83: -203317396842878663
+      Jess Stage Die_84: 8150367928205677102
+      Jess Stage Die_85: -6638656624534244754
+      Jess Stage Die_86: -5036862898050453723
+      Jess Stage Die_87: -4374390179628659981
+      Jess Stage Die_88: 5367373263133263956
+      Jess Stage Die_89: 279193695389992214
+      Jess Stage Die_9: 8789028662027685190
+      Jess Stage Die_90: -5885453213077505603
+      Jess Stage Die_91: 1174867297094064873
+      Jess Stage Die_92: 6023598936099139503
+      Jess Stage Die_93: -7075164271131332457
+      Jess Stage Die_94: 5872133619402834993
+      Jess Stage Die_95: 1354559201015587811
+      Jess Stage Die_96: 3329362294467216208
+      Jess Stage Die_97: 1595566588807596522
+      Jess Stage Die_98: -732498749614458680
+      Jess Stage Die_99: 7201321081478823866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainCharacter_Dash
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.2
+        value: 0.078431375
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 0.078431375
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.45
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Color.a
+    path: TurretPoint/Gun Sprite
+    classID: 212
+    script: {fileID: 0}
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 5063163537856821583, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.016666668
+      value: {fileID: 8024163573368976268, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.033333335
+      value: {fileID: -441388984358646044, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.05
+      value: {fileID: 2351212550539623879, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.06666667
+      value: {fileID: 3416313306340831566, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.083333336
+      value: {fileID: 5626101253972715687, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.1
+      value: {fileID: -6560079234246726817, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.11666667
+      value: {fileID: 2275811663195062477, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.13333334
+      value: {fileID: -4103549490659673066, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.15
+      value: {fileID: 1040580694762468903, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.16666667
+      value: {fileID: -8002759324662082680, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.18333334
+      value: {fileID: 3075309399636237779, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.2
+      value: {fileID: 7560914457849853718, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - time: 0.26666668
+      value: {fileID: 873461438681977078, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.28333333
+      value: {fileID: -8785511567220134172, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.3
+      value: {fileID: -4201141840290463781, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.31666666
+      value: {fileID: 3564814134996027311, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.33333334
+      value: {fileID: 5974469156340776781, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.35
+      value: {fileID: 2243910738988108746, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.36666667
+      value: {fileID: -9049121713633471010, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.38333333
+      value: {fileID: 4030392611189595085, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.4
+      value: {fileID: -6703439323273932920, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.41666666
+      value: {fileID: -7529940493386717722, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.43333334
+      value: {fileID: 4223967388173816063, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - time: 0.45
+      value: {fileID: 6313924188307028048, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    attribute: m_Sprite
+    path: Character Sprite
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1518366628
+      attribute: 304273561
+      script: {fileID: 0}
+      typeID: 212
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2632749700
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 5063163537856821583, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 8024163573368976268, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: -441388984358646044, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 2351212550539623879, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 3416313306340831566, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 5626101253972715687, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: -6560079234246726817, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 2275811663195062477, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: -4103549490659673066, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 1040580694762468903, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: -8002759324662082680, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 3075309399636237779, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 7560914457849853718, guid: 326aef1a18685454f9902e5531497381, type: 3}
+    - {fileID: 873461438681977078, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: -8785511567220134172, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: -4201141840290463781, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: 3564814134996027311, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: 5974469156340776781, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: 2243910738988108746, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: -9049121713633471010, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: 4030392611189595085, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: -6703439323273932920, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: -7529940493386717722, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: 4223967388173816063, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+    - {fileID: 6313924188307028048, guid: 10525357daba8034abf4f7d3a37df7a2, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.46666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.2
+        value: 0.078431375
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 0.078431375
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.45
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Color.a
+    path: TurretPoint/Gun Sprite
+    classID: 212
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
